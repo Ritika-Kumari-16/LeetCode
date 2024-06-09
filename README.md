@@ -9,6 +9,7 @@
 | [0031-next-permutation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0169-majority-element) |
 | [1044-find-common-characters](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1044-find-common-characters) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0169-majority-element) |
 | [1044-find-common-characters](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1044-find-common-characters) |
 # Divide and Conquer
@@ -51,3 +53,7 @@
 |  |
 | ------- |
 | [1044-find-common-characters](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1044-find-common-characters) |
+# Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0128-longest-consecutive-sequence) |
