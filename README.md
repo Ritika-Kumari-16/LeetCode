@@ -87,7 +87,12 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0050-powx-n) |
 # Counting Sort
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1217-relative-sort-array) |
+# Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0050-powx-n) |
