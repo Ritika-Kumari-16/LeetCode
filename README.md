@@ -85,6 +85,7 @@
 # Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0048-rotate-image) |
 # Counting Sort
 |  |
