@@ -16,6 +16,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0792-binary-search](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0792-binary-search) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1217-relative-sort-array) |
@@ -96,3 +97,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0050-powx-n) |
+# Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0792-binary-search) |
