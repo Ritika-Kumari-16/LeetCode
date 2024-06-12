@@ -71,6 +71,7 @@
 # String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0058-length-of-last-word) |
 | [1044-find-common-characters](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1044-find-common-characters) |
 # Union Find
 |  |
