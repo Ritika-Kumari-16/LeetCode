@@ -19,6 +19,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0792-binary-search) |
@@ -116,6 +117,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0792-binary-search) |
 # Greedy
 |  |
