@@ -6,12 +6,12 @@ public:
         int ans = 0;
         while(x!=0){
 
-            int bit = x%10;
+            int lastdigit = x%10;
 
             if((ans >INT_MAX/10)||(ans < INT_MIN/10)){
                 return 0;
             }
-            ans = (ans*10) +bit;
+            ans = (ans*10) +lastdigit;
             x = x/10;
 
         }
