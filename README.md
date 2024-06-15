@@ -23,6 +23,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0169-majority-element) |
+| [0502-ipo](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0502-ipo) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0792-binary-search) |
@@ -45,6 +46,7 @@
 | [0015-3sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0169-majority-element) |
+| [0502-ipo](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0502-ipo) |
 | [1217-relative-sort-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Hash Table
@@ -129,4 +131,9 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0409-longest-palindrome) |
+| [0502-ipo](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0502-ipo) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0502-ipo](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0502-ipo) |
