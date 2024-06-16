@@ -23,6 +23,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0169-majority-element) |
+| [0330-patching-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0502-ipo) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -131,6 +132,7 @@
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0502-ipo) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
