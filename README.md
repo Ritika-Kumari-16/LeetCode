@@ -40,6 +40,7 @@
 | [0027-remove-element](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0075-sort-colors) |
+| [0633-sum-of-square-numbers](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 # Sorting
 |  |
@@ -109,6 +110,7 @@
 | [0009-palindrome-number](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0050-powx-n) |
+| [0633-sum-of-square-numbers](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0633-sum-of-square-numbers) |
 # Counting Sort
 |  |
 | ------- |
@@ -128,6 +130,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0792-binary-search) |
 # Greedy
 |  |
