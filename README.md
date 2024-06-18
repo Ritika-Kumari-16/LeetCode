@@ -28,6 +28,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0792-binary-search) |
+| [0853-most-profit-assigning-work](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0907-koko-eating-bananas](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1044-find-common-characters) |
@@ -43,6 +44,7 @@
 | [0031-next-permutation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0075-sort-colors) |
 | [0633-sum-of-square-numbers](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 # Sorting
 |  |
@@ -51,6 +53,7 @@
 | [0075-sort-colors](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0169-majority-element) |
 | [0502-ipo](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0502-ipo) |
+| [0853-most-profit-assigning-work](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [1217-relative-sort-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Hash Table
@@ -134,6 +137,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0792-binary-search) |
+| [0853-most-profit-assigning-work](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0907-koko-eating-bananas](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 # Greedy
@@ -142,6 +146,7 @@
 | [0330-patching-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0502-ipo) |
+| [0853-most-profit-assigning-work](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Heap (Priority Queue)
 |  |
