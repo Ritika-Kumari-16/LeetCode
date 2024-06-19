@@ -32,6 +32,7 @@
 | [0907-koko-eating-bananas](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1044-find-common-characters) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1217-relative-sort-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1217-relative-sort-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -141,6 +142,7 @@
 | [0792-binary-search](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0792-binary-search) |
 | [0853-most-profit-assigning-work](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0907-koko-eating-bananas](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1646-kth-missing-positive-number) |
