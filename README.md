@@ -35,6 +35,7 @@
 | [1217-relative-sort-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1217-relative-sort-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 # Two Pointers
@@ -142,6 +143,7 @@
 | [0907-koko-eating-bananas](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1646-kth-missing-positive-number) |
 # Greedy
 |  |
 | ------- |
