@@ -50,6 +50,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Sorting
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 | [0058-length-of-last-word](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0058-length-of-last-word) |
 | [0409-longest-palindrome](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0409-longest-palindrome) |
 | [1044-find-common-characters](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1044-find-common-characters) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Union Find
 |  |
 | ------- |
@@ -157,6 +159,7 @@
 | [0502-ipo](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Heap (Priority Queue)
 |  |
 | ------- |
