@@ -36,6 +36,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1138-grumpy-bookstore-owner](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1646-kth-missing-positive-number) |
@@ -76,6 +77,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 | [0048-rotate-image](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0050-powx-n) |
 | [0633-sum-of-square-numbers](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 # Counting Sort
 |  |
 | ------- |
@@ -174,3 +177,4 @@
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
