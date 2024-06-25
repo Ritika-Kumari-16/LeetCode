@@ -46,6 +46,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+| [2047-find-a-peak-element-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 # Two Pointers
@@ -131,6 +132,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [2047-find-a-peak-element-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 # Math
 |  |
 | ------- |
@@ -223,6 +225,7 @@
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [2047-find-a-peak-element-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 # Binary Tree
 |  |
 | ------- |
