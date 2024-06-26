@@ -91,6 +91,7 @@
 | [0053-maximum-subarray](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1285-balance-a-binary-search-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -182,6 +183,7 @@
 | [0410-split-array-largest-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [1285-balance-a-binary-search-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Heap (Priority Queue)
@@ -217,16 +219,20 @@
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [2047-find-a-peak-element-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 # Binary Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
