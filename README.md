@@ -27,6 +27,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0330-patching-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0330-patching-array) |
 | [0410-split-array-largest-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -69,6 +70,7 @@
 | [0015-3sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0229-majority-element-ii) |
 | [0502-ipo](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [1217-relative-sort-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1217-relative-sort-array) |
@@ -82,6 +84,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0229-majority-element-ii) |
 | [0409-longest-palindrome](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -154,6 +157,7 @@
 # Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0229-majority-element-ii) |
 | [1217-relative-sort-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1217-relative-sort-array) |
 # Recursion
 |  |
