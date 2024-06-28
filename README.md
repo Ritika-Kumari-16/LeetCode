@@ -51,6 +51,7 @@
 | [2047-find-a-peak-element-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 # Two Pointers
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 # String
 |  |
 | ------- |
@@ -147,6 +149,7 @@
 | [0050-powx-n](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0050-powx-n) |
 | [0633-sum-of-square-numbers](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 # Counting Sort
 |  |
 | ------- |
@@ -240,3 +243,7 @@
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+# Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
