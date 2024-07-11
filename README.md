@@ -377,4 +377,12 @@
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## String
+|  |
+| ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
