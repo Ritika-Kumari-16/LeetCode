@@ -288,6 +288,7 @@
 | [0198-house-robber](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0493-reverse-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -351,6 +352,7 @@
 | [0198-house-robber](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0322-coin-change) |
 | [1250-longest-common-subsequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Divide and Conquer
 |  |
@@ -454,4 +456,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0062-unique-paths) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
