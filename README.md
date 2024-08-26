@@ -284,6 +284,7 @@
 | [0078-subsets](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0090-subsets-ii) |
+| [0139-word-break](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0213-house-robber-ii) |
@@ -333,6 +334,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0037-sudoku-solver) |
+| [0139-word-break](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -351,6 +353,7 @@
 | [0064-minimum-path-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0213-house-robber-ii) |
@@ -429,6 +432,7 @@
 | ------- |
 | [0072-edit-distance](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0139-word-break) |
 | [1250-longest-common-subsequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Stack
@@ -481,4 +485,12 @@
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
