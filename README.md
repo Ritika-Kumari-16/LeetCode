@@ -303,6 +303,7 @@
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1803-average-waiting-time](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2035-count-sub-islands) |
 ## Two Pointers
 |  |
@@ -354,6 +355,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0493-reverse-pairs) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -415,6 +417,7 @@
 | [1642-water-bottles](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Math
@@ -529,4 +532,8 @@
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1325-path-with-maximum-probability) |
+## Prefix Sum
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
