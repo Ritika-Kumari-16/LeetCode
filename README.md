@@ -285,6 +285,7 @@
 | [0078-subsets](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0090-subsets-ii) |
+| [0130-surrounded-regions](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0198-house-robber) |
@@ -332,6 +333,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0547-number-of-provinces) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2035-count-sub-islands](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2035-count-sub-islands) |
@@ -482,6 +484,7 @@
 | [0037-sudoku-solver](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0130-surrounded-regions](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1036-rotting-oranges) |
@@ -493,6 +496,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0130-surrounded-regions) |
 | [0322-coin-change](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0547-number-of-provinces) |
@@ -510,6 +514,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0130-surrounded-regions](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0547-number-of-provinces](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0547-number-of-provinces) |
