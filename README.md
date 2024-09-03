@@ -298,6 +298,7 @@
 | [0542-01-matrix](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1293-three-consecutive-odds](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -335,6 +336,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2035-count-sub-islands](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2035-count-sub-islands) |
 ## Graph
@@ -488,6 +490,7 @@
 | [0542-01-matrix](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1073-number-of-enclaves) |
 | [2035-count-sub-islands](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2035-count-sub-islands) |
 ## Combinatorics
 |  |
@@ -502,6 +505,7 @@
 | [0547-number-of-provinces](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1073-number-of-enclaves) |
 | [2035-count-sub-islands](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2035-count-sub-islands) |
 ## Tree
 |  |
@@ -520,6 +524,7 @@
 | [0547-number-of-provinces](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0733-flood-fill) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1073-number-of-enclaves](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1073-number-of-enclaves) |
 | [2035-count-sub-islands](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2035-count-sub-islands) |
 ## Binary Tree
 |  |
