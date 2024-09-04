@@ -297,6 +297,7 @@
 | [0493-reverse-pairs](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0493-reverse-pairs) |
 | [0542-01-matrix](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0733-flood-fill) |
+| [0906-walking-robot-simulation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1036-rotting-oranges](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1293-three-consecutive-odds](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -353,6 +354,7 @@
 | [0141-linked-list-cycle](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0906-walking-robot-simulation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0906-walking-robot-simulation) |
 ## Binary Search
 |  |
 | ------- |
@@ -420,6 +422,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
