@@ -364,6 +364,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Hash Table
 |  |
 | ------- |
@@ -406,6 +407,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1250-longest-common-subsequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -614,6 +616,7 @@
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -625,6 +628,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0210-course-schedule-ii) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Counting
 |  |
 | ------- |
