@@ -273,6 +273,7 @@
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0018-4sum) |
 | [0037-sudoku-solver](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0039-combination-sum) |
@@ -325,6 +326,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -340,6 +342,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0088-merge-sorted-array) |
