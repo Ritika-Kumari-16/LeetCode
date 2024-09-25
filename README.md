@@ -332,6 +332,7 @@
 | [0016-3sum-closest](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -515,6 +516,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0072-edit-distance](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -693,6 +695,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0214-shortest-palindrome) |
 ## Hash Function
 |  |
