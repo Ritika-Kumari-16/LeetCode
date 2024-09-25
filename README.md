@@ -283,6 +283,7 @@
 | [0056-merge-intervals](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0090-subsets-ii) |
@@ -492,6 +493,7 @@
 | [0002-add-two-numbers](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0066-plus-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1642-water-bottles](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1642-water-bottles) |
