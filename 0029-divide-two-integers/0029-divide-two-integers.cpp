@@ -1,86 +1,29 @@
 class Solution {
 public:
-  string remainder(string &s1,int num, int divisor)
-{
-  if(num<divisor)
-  {
-  s1.push_back('0');
-  return to_string(num);
-  }
-  int diff=num;
-  if(num>=divisor)
-  {
-    int count=0;
-      while(diff>=divisor)
-      {
-          count++;diff=diff-divisor;
-      }
-      s1.insert(s1.size(),to_string(count));
-  }
-  return to_string(diff);
-}
-int divide(int dividend, int divisor) {
-   int sign=0;
-  if(divisor==INT_MIN){
-  if(dividend==INT_MIN){
-  return 1;
-  }
-  return 0;
-  }
-  if(dividend<0||divisor<0)
-  {
-    if(dividend<0&&divisor<0)
-    {}
-    else
-    sign=1;
-  }
-  int check=0;
-  if(dividend==INT_MIN)
-  {
-    check=1;
-    dividend=abs(dividend+1);}
-  else
-  dividend=abs(dividend);
-  divisor=abs(divisor);
-  if(divisor==1)
-  {
-    if(sign==0)
-    return dividend;
-    else if(sign==1&&check==1)
-    return -dividend-1;
-    else
-      return -dividend;
-  }
-  if(dividend<divisor)
-  {
-    return 0;
-  }
-   string s=to_string(dividend);
-  string s1="";
-  int size=to_string(divisor).size();
-  string remain=s.substr(0,size-1);
-  int i=size-1;
-  while(i<s.size())
-    {
-      string s2=remain+s.substr(i,1);
-      remain=remainder(s1,stoi(s2),divisor);
-      i++;
-    }
-  if(check==1)
-  {
-    if(stoi(remain)+1==divisor)
-    {
-      if(sign==1)
-        {
-          return -stoi(s1)-1;
+    int divide(int dividend, int divisor) {
+        if(dividend == divisor)
+            return 1;
+        bool sign = true;
+        //taking care of sign
+        if(divisor < 0 && dividend >= 0) sign = false;
+        else if(divisor > 0 && dividend <= 0) sign = false;
+        long p = abs(dividend);
+        long q = abs(divisor);
+        long quotient = 0;
+        while(p >= q) {
+            int count = 0;
+            //divisor << count+1 means divisor * 2^(count+1)
+            while(p >= (q << (count+1)))
+                count++;
+            quotient += (1 << count); //2^count
+            p -= (q << count);
         }
-        return stoi(s1)+1;
+        //handling overflows
+        if(quotient == (1 << 31) && sign)
+            return INT_MAX;
+        if(quotient == (1 << 31) && !sign)
+            return INT_MIN;
+
+        return sign? quotient : -quotient;
     }
-  }
-    if(sign==1)
-  {
-    return -stoi(s1);
-  }
-  return stoi(s1);
-}
 };
