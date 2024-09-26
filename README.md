@@ -333,6 +333,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -417,6 +418,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0062-unique-paths) |
@@ -537,6 +539,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
