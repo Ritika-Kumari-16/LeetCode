@@ -327,6 +327,7 @@
 | [2411-spiral-matrix-iv](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2690-house-robber-iv](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2690-house-robber-iv) |
 | [2755-extra-characters-in-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -417,6 +418,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1753-path-with-minimum-effort](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2690-house-robber-iv](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2690-house-robber-iv) |
 ## Dynamic Programming
 |  |
 | ------- |
