@@ -397,6 +397,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0037-sudoku-solver) |
+| [0126-word-ladder-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -559,6 +560,7 @@
 | [0067-add-binary](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0125-valid-palindrome) |
+| [0126-word-ladder-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0139-word-break) |
@@ -596,6 +598,7 @@
 | [0051-n-queens](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0090-subsets-ii) |
+| [0126-word-ladder-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
@@ -632,6 +635,7 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0112-path-sum) |
+| [0126-word-ladder-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0200-number-of-islands) |
