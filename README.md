@@ -317,6 +317,7 @@
 | [0906-walking-robot-simulation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1036-rotting-oranges](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1121-partition-array-for-maximum-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1168-duplicate-zeros](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1293-three-consecutive-odds](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1325-path-with-maximum-probability) |
@@ -472,6 +473,7 @@
 | [0494-target-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1121-partition-array-for-maximum-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1250-longest-common-subsequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
