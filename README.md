@@ -276,6 +276,7 @@
 | [0011-container-with-most-water](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0040-combination-sum-ii) |
@@ -356,6 +357,7 @@
 | [0016-3sum-closest](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0088-merge-sorted-array) |
