@@ -375,6 +375,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0455-assign-cookies) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1168-duplicate-zeros](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -437,6 +438,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0432-all-oone-data-structure](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0432-all-oone-data-structure) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0906-walking-robot-simulation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -725,6 +727,7 @@
 | [0542-01-matrix](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0801-is-graph-bipartite) |
@@ -741,6 +744,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
@@ -756,6 +760,7 @@
 | [0386-lexicographical-numbers](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0744-network-delay-time) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -772,6 +777,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Trie
 |  |
 | ------- |
@@ -866,4 +872,8 @@
 |  |
 | ------- |
 | [2831-number-of-beautiful-pairs](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
