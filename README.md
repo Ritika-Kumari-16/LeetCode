@@ -347,6 +347,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2690-house-robber-iv](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2690-house-robber-iv) |
 | [2755-extra-characters-in-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [3194-find-words-containing-character](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -635,6 +636,7 @@
 | [2190-count-common-words-with-one-occurrence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [3194-find-words-containing-character](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Stack
 |  |
