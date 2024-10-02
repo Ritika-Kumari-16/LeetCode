@@ -533,6 +533,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0455-assign-cookies) |
 | [1018-largest-perimeter-triangle](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1033-broken-calculator](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1033-broken-calculator) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Linked List
 |  |
@@ -589,6 +590,7 @@
 | [0539-minimum-time-difference](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0650-2-keys-keyboard](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1018-largest-perimeter-triangle](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1033-broken-calculator](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1033-broken-calculator) |
 | [1642-water-bottles](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2155-find-missing-observations) |
