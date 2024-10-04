@@ -759,6 +759,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -791,6 +792,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Trie
 |  |
 | ------- |
@@ -811,6 +813,7 @@
 | ------- |
 | [0506-relative-ranks](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0506-relative-ranks) |
 | [0744-network-delay-time](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0744-network-delay-time) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1753-path-with-minimum-effort](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -872,6 +875,7 @@
 | [0729-my-calendar-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0732-my-calendar-iii) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Sliding Window
@@ -890,4 +894,9 @@
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
