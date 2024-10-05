@@ -558,6 +558,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1033-broken-calculator](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1033-broken-calculator) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2154-minimum-moves-to-convert-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 ## Linked List
 |  |
 | ------- |
@@ -668,6 +669,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2154-minimum-moves-to-convert-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
