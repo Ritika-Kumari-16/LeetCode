@@ -593,6 +593,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0906-walking-robot-simulation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1642-water-bottles) |
@@ -621,6 +622,7 @@
 | [0224-basic-calculator](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0258-add-digits) |
 | [0539-minimum-time-difference](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0650-2-keys-keyboard](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1018-largest-perimeter-triangle](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -926,6 +928,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0258-add-digits) |
 | [2831-number-of-beautiful-pairs](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
 ## Binary Search Tree
 |  |
