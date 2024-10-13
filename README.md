@@ -317,6 +317,7 @@
 | [0506-relative-ranks](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0542-01-matrix) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0733-flood-fill) |
@@ -413,6 +414,7 @@
 | [0455-assign-cookies](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1018-largest-perimeter-triangle](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1256-rank-transform-of-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -460,6 +462,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0432-all-oone-data-structure](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0906-walking-robot-simulation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -563,6 +566,7 @@
 | [0179-largest-number](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0455-assign-cookies) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1018-largest-perimeter-triangle](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1033-broken-calculator](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1033-broken-calculator) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -849,6 +853,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0506-relative-ranks) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0744-network-delay-time](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -922,6 +927,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Doubly-Linked List
 |  |
 | ------- |
