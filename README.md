@@ -357,6 +357,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2551-apply-operations-to-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2690-house-robber-iv](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2690-house-robber-iv) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2755-extra-characters-in-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2755-extra-characters-in-a-string) |
@@ -577,6 +578,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Linked List
 |  |
 | ------- |
@@ -867,6 +869,7 @@
 | [1753-path-with-minimum-effort](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Shortest Path
 |  |
