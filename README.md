@@ -488,6 +488,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2831-number-of-beautiful-pairs](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -830,6 +831,7 @@
 | [1753-path-with-minimum-effort](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2035-count-sub-islands) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Tree
 |  |
 | ------- |
@@ -842,6 +844,7 @@
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -865,6 +868,7 @@
 | [1073-number-of-enclaves](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2035-count-sub-islands) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -876,6 +880,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Trie
 |  |
 | ------- |
