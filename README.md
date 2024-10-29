@@ -417,6 +417,7 @@
 | [0088-merge-sorted-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -472,6 +473,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -715,6 +717,7 @@
 | [0224-basic-calculator](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0474-ones-and-zeroes) |
