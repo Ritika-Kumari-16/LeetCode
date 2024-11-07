@@ -734,6 +734,7 @@
 | [0567-permutation-in-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0778-reorganize-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0778-reorganize-string) |
+| [0812-rotate-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1078-remove-outermost-parentheses](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
@@ -997,6 +998,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
