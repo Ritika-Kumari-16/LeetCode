@@ -601,6 +601,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0670-maximum-swap) |
 | [0778-reorganize-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0778-reorganize-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1033-broken-calculator](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1033-broken-calculator) |
 | [1304-longest-happy-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1304-longest-happy-string) |
@@ -740,6 +741,7 @@
 | [0778-reorganize-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -783,6 +785,7 @@
 | [0227-basic-calculator-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
