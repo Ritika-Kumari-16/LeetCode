@@ -282,6 +282,7 @@
 | [0040-combination-sum-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -535,6 +536,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0055-jump-game](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -598,6 +600,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0455-assign-cookies) |
