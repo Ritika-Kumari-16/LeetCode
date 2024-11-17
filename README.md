@@ -700,6 +700,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0202-happy-number) |
+| [0223-rectangle-area](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -1129,4 +1130,8 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0402-remove-k-digits) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
