@@ -282,6 +282,7 @@
 | [0040-combination-sum-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -670,6 +671,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0657-robot-return-to-origin) |
@@ -886,6 +888,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0079-word-search) |
