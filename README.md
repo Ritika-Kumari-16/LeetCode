@@ -620,6 +620,7 @@
 | [0011-container-with-most-water](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -773,6 +774,7 @@
 | [0273-integer-to-english-words](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0402-remove-k-digits](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0481-magical-string) |
@@ -826,6 +828,7 @@
 | [0224-basic-calculator](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -1118,4 +1121,8 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
