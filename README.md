@@ -675,6 +675,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0067-add-binary) |
@@ -701,6 +702,7 @@
 | [0002-add-two-numbers](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0067-add-binary) |
@@ -766,6 +768,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0079-word-search) |
