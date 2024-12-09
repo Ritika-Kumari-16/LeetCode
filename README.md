@@ -462,6 +462,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2887-sort-vowels-in-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 ## Union Find
 |  |
 | ------- |
@@ -844,6 +845,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2887-sort-vowels-in-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3019-furthest-point-from-origin](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3019-furthest-point-from-origin) |
 | [3194-find-words-containing-character](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3195-separate-black-and-white-balls) |
