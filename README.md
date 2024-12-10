@@ -329,6 +329,7 @@
 | [0733-flood-fill](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0733-flood-fill) |
 | [0859-design-circular-deque](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0906-walking-robot-simulation) |
+| [0981-delete-columns-to-make-sorted](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1018-largest-perimeter-triangle](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1073-number-of-enclaves) |
@@ -818,6 +819,7 @@
 | [0916-decoded-string-at-index](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0916-decoded-string-at-index) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0981-delete-columns-to-make-sorted](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1078-remove-outermost-parentheses](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1250-longest-common-subsequence) |
