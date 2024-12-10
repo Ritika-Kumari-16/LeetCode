@@ -7,15 +7,15 @@ public:
             return -1;
         }
         int n= s.size();
-        unordered_map<string,int> mp;
+        map<pair<char,int>,int> mp;
         for(int i=0;i<n;i++){
-            string temp="";
-            temp+=s[i];
-            mp[temp]++;
+            char temp=s[i];
+            int lengt=1;
+            mp[{temp,lengt}]++;
             for(int j=i+1;j<n;j++){
                 if(s[j]==s[j-1]){
-                    temp+=s[j];
-                    mp[temp]++;
+                    lengt++;
+                    mp[{temp,lengt}]++;
                 }
                 else{
                     break;
@@ -23,10 +23,9 @@ public:
             }
         }
         int leng=INT_MIN;
-        for(auto it : mp){
+        for(auto &it : mp){
             if(it.second>=3){
-                string st=it.first;
-                int val=st.size();
+                int val=it.first.second;
                 leng = max (leng , val );
             }
         }
