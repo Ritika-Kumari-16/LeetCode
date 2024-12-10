@@ -536,6 +536,7 @@
 | [2831-number-of-beautiful-pairs](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
@@ -561,6 +562,7 @@
 | [2690-house-robber-iv](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3427-special-array-ii) |
 ## Dynamic Programming
 |  |
@@ -853,6 +855,7 @@
 | [3194-find-words-containing-character](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Stack
 |  |
@@ -1103,6 +1106,7 @@
 | [2831-number-of-beautiful-pairs](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
 | [3019-furthest-point-from-origin](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3019-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -1140,6 +1144,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
