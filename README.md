@@ -380,6 +380,7 @@
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2831-number-of-beautiful-pairs](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3194-find-words-containing-character](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -464,6 +465,7 @@
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Union Find
 |  |
 | ------- |
@@ -562,6 +564,7 @@
 | [2690-house-robber-iv](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3427-special-array-ii) |
 ## Dynamic Programming
@@ -1144,6 +1147,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Doubly-Linked List
 |  |
