@@ -365,6 +365,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2360-substring-with-largest-variance](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2360-substring-with-largest-variance) |
 | [2411-spiral-matrix-iv](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -605,6 +606,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
+| [2360-substring-with-largest-variance](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2360-substring-with-largest-variance) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
