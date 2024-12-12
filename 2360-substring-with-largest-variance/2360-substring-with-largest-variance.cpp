@@ -10,7 +10,7 @@ public:
         for(int i=0;i<26;i++){
             if(arr[i]==0) continue;
             for(int j=0;j<26;j++){
-                if( arr[j]==0){
+                if( i==j||arr[j]==0){
                     continue;
                 }
                 int firstcount=0;
