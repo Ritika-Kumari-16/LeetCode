@@ -417,6 +417,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0455-assign-cookies) |
 | [0481-magical-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0481-magical-string) |
@@ -594,6 +595,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0472-concatenated-words) |
@@ -821,6 +823,7 @@
 | [0273-integer-to-english-words](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0451-sort-characters-by-frequency) |
