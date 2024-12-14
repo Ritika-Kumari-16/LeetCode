@@ -384,6 +384,7 @@
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2831-number-of-beautiful-pairs](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2868-continuous-subarrays](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3194-find-words-containing-character](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -647,6 +648,7 @@
 | [0731-my-calendar-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0732-my-calendar-iii) |
 | [1946-minimum-absolute-sum-difference](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1946-minimum-absolute-sum-difference) |
+| [2868-continuous-subarrays](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Greedy
 |  |
 | ------- |
@@ -785,6 +787,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0859-design-circular-deque) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2868-continuous-subarrays](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2868-continuous-subarrays) |
 ## String
 |  |
 | ------- |
@@ -1088,6 +1091,7 @@
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2868-continuous-subarrays](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Shortest Path
 |  |
@@ -1169,6 +1173,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [2868-continuous-subarrays](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Doubly-Linked List
@@ -1213,4 +1218,8 @@
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0223-rectangle-area) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
