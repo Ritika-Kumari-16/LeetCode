@@ -349,6 +349,7 @@
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1753-path-with-minimum-effort](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1803-average-waiting-time) |
 | [1923-sentence-similarity-iii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1923-sentence-similarity-iii) |
@@ -867,6 +868,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
