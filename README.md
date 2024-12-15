@@ -845,6 +845,7 @@
 | [0472-concatenated-words](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0481-magical-string) |
+| [0520-detect-capital](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0520-detect-capital) |
 | [0539-minimum-time-difference](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0567-permutation-in-string) |
