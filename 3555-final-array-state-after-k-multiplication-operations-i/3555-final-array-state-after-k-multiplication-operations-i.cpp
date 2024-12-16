@@ -1,19 +1,21 @@
 class Solution {
 public:
     vector<int> getFinalState(vector<int>& nums, int k, int multiplier) {
-        for(int i=0;i<k;i++){
-            int mini=INT_MAX;
-            int ind=-1;
-            for(int j=0;j<nums.size();j++){
-                if(mini>nums[j]){
-                    mini=nums[j];
-                    ind=j;
-                }
+        int n = nums.size();
 
+        while (k--) {
+            // Find the index of the smallest element in the array
+            int minIndex = 0;
+            for (int i = 0; i < n; i++) {
+                if (nums[i] < nums[minIndex]) {
+                    minIndex = i;
+                }
             }
-            nums[ind]*=multiplier;
+
+            // Multiply the smallest element by the multiplier
+            nums[minIndex] *= multiplier;
         }
+
         return nums;
-        
     }
 };
