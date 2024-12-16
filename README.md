@@ -773,6 +773,7 @@
 | [1885-count-number-of-homogenous-substrings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -795,6 +796,7 @@
 | [1197-parsing-a-boolean-expression](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2050-count-good-numbers](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2050-count-good-numbers) |
 ## Queue
 |  |
 | ------- |
