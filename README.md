@@ -344,6 +344,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -934,6 +935,7 @@
 | [1197-parsing-a-boolean-expression](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -1259,6 +1261,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0402-remove-k-digits) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Geometry
 |  |
 | ------- |
