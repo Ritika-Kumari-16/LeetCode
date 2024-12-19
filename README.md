@@ -774,6 +774,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0258-add-digits) |
 | [0273-integer-to-english-words](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0282-expression-add-operators) |
 | [0445-add-two-numbers-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0539-minimum-time-difference](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0650-2-keys-keyboard](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0650-2-keys-keyboard) |
@@ -853,6 +854,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0282-expression-add-operators) |
 | [0316-remove-duplicate-letters](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -967,6 +969,7 @@
 | [0126-word-ladder-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
