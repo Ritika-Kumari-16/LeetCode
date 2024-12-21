@@ -294,6 +294,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0139-word-break) |
@@ -606,6 +607,7 @@
 | [0063-unique-paths-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0072-edit-distance) |
+| [0120-triangle](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0152-maximum-product-subarray) |
