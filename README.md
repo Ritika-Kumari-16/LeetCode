@@ -398,6 +398,7 @@
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2868-continuous-subarrays](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3194-find-words-containing-character](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -597,6 +598,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3427-special-array-ii) |
 ## Dynamic Programming
@@ -656,6 +658,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0493-reverse-pairs) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
@@ -663,6 +666,7 @@
 | [0729-my-calendar-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0732-my-calendar-iii) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Merge Sort
 |  |
 | ------- |
@@ -960,6 +964,7 @@
 | [1666-make-the-string-great](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Backtracking
 |  |
 | ------- |
@@ -1167,6 +1172,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Shortest Path
 |  |
@@ -1299,6 +1305,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Geometry
 |  |
 | ------- |
