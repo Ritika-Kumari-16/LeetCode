@@ -335,6 +335,7 @@
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0859-design-circular-deque](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0859-design-circular-deque) |
+| [0890-lemonade-change](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0967-minimum-falling-path-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
@@ -698,6 +699,7 @@
 | [0778-reorganize-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0778-reorganize-string) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0890-lemonade-change](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1033-broken-calculator](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1033-broken-calculator) |
