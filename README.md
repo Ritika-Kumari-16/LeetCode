@@ -646,6 +646,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1063-best-sightseeing-pair](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
+| [1170-shortest-common-supersequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1559-cherry-pickup-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1559-cherry-pickup-ii) |
@@ -910,6 +911,7 @@
 | [0981-delete-columns-to-make-sorted](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1078-remove-outermost-parentheses](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1170-shortest-common-supersequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
