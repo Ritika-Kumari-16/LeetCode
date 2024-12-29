@@ -361,6 +361,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1753-path-with-minimum-effort](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -650,6 +651,7 @@
 | [1559-cherry-pickup-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2360-substring-with-largest-variance](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2360-substring-with-largest-variance) |
@@ -921,6 +923,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
