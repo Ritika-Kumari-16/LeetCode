@@ -344,6 +344,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1018-largest-perimeter-triangle](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1025-minimum-cost-for-tickets](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1063-best-sightseeing-pair](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1063-best-sightseeing-pair) |
@@ -652,6 +653,7 @@
 | [0741-cherry-pickup](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0741-cherry-pickup) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0967-minimum-falling-path-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1025-minimum-cost-for-tickets](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1170-shortest-common-supersequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1170-shortest-common-supersequence) |
