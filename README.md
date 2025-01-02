@@ -333,6 +333,7 @@
 | [0539-minimum-time-difference](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0542-01-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0729-my-calendar-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0729-my-calendar-i) |
@@ -660,6 +661,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0650-2-keys-keyboard](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0650-2-keys-keyboard) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0741-cherry-pickup](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0741-cherry-pickup) |
@@ -696,11 +698,13 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0732-my-calendar-iii) |
