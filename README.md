@@ -400,6 +400,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2690-house-robber-iv](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2690-house-robber-iv) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -974,6 +975,7 @@
 | [2190-count-common-words-with-one-occurrence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2755-extra-characters-in-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -1255,6 +1257,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3427-special-array-ii) |
 ## Topological Sort
 |  |
