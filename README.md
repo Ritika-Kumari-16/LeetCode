@@ -365,6 +365,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1524-string-matching-in-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1559-cherry-pickup-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -967,6 +968,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1524-string-matching-in-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1647-can-convert-string-in-k-moves](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1647-can-convert-string-in-k-moves) |
 | [1666-make-the-string-great](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1666-make-the-string-great) |
@@ -1326,6 +1328,7 @@
 | [0214-shortest-palindrome](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1524-string-matching-in-an-array) |
 ## Hash Function
 |  |
 | ------- |
