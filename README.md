@@ -467,6 +467,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1129-longest-string-chain](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1129-longest-string-chain) |
 | [1168-duplicate-zeros](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1168-duplicate-zeros) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1923-sentence-similarity-iii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -973,6 +974,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1524-string-matching-in-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1647-can-convert-string-in-k-moves](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1647-can-convert-string-in-k-moves) |
 | [1666-make-the-string-great](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1666-make-the-string-great) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -1337,6 +1339,7 @@
 | [0459-repeated-substring-pattern](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
