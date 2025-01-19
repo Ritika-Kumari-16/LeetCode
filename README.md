@@ -1149,6 +1149,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0112-path-sum) |
 | [0126-word-ladder-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0126-word-ladder-ii) |
@@ -1183,6 +1184,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -1205,6 +1207,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -1239,6 +1242,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
