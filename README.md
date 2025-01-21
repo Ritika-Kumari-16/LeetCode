@@ -393,6 +393,7 @@
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2145-grid-game](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
@@ -1142,6 +1143,7 @@
 | [1559-cherry-pickup-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [1753-path-with-minimum-effort](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2035-count-sub-islands) |
+| [2145-grid-game](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2145-grid-game) |
 | [2411-spiral-matrix-iv](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -1329,6 +1331,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
