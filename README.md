@@ -345,6 +345,7 @@
 | [0741-cherry-pickup](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0741-cherry-pickup) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0854-making-a-large-island](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0906-walking-robot-simulation) |
@@ -542,6 +543,7 @@
 | [0547-number-of-provinces](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [0854-making-a-large-island](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -1150,6 +1152,7 @@
 | [0542-01-matrix](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0741-cherry-pickup) |
+| [0854-making-a-large-island](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1073-number-of-enclaves) |
@@ -1194,6 +1197,7 @@
 | [0801-is-graph-bipartite](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -1259,6 +1263,7 @@
 | [0801-is-graph-bipartite](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1073-number-of-enclaves](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
