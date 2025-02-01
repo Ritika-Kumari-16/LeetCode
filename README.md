@@ -565,6 +565,7 @@
 | [0820-find-eventual-safe-states](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1039-find-the-town-judge](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1325-path-with-maximum-probability](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -721,6 +722,7 @@
 | [1170-shortest-common-supersequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1559-cherry-pickup-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1349,6 +1351,7 @@
 | [0744-network-delay-time](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
