@@ -8,7 +8,7 @@ public:
             for(int j=i+1;j<n;j++){
                 if(nums[j-1]<nums[j]){
                     sum+=nums[j];
-                    maxsum=max(maxsum,sum);
+                    // maxsum=max(maxsum,sum);
                 }
                 else{
                     break;
