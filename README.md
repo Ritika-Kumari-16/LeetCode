@@ -627,6 +627,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -1038,6 +1039,7 @@
 | [1885-count-number-of-homogenous-substrings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1954-replace-all-digits-with-characters](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -1411,6 +1413,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
