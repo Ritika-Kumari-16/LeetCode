@@ -390,6 +390,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1803-average-waiting-time) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -765,6 +766,7 @@
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2360-substring-with-largest-variance](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2360-substring-with-largest-variance) |
