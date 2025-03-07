@@ -1044,6 +1044,7 @@
 | [0242-valid-anagram](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0282-expression-add-operators) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -1281,6 +1282,7 @@
 | [0207-course-schedule](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1337,6 +1339,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -1377,6 +1380,7 @@
 | [0210-course-schedule-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0419-battleships-in-a-board](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0472-concatenated-words](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0472-concatenated-words) |
@@ -1436,6 +1440,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -1600,6 +1605,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0432-all-oone-data-structure](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0731-my-calendar-ii) |
