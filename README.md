@@ -656,6 +656,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -1094,6 +1095,7 @@
 | [1304-longest-happy-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -1664,6 +1666,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2868-continuous-subarrays](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2868-continuous-subarrays) |
