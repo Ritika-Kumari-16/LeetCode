@@ -959,6 +959,7 @@
 | [0223-rectangle-area](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0258-add-digits) |
 | [0273-integer-to-english-words](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0273-integer-to-english-words) |
@@ -1003,6 +1004,7 @@
 | [0143-reorder-list](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0273-integer-to-english-words) |
@@ -1233,6 +1235,7 @@
 | [0190-reverse-bits](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0342-power-of-four) |
