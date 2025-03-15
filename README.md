@@ -309,6 +309,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0216-combination-sum-iii) |
@@ -960,6 +961,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0227-basic-calculator-ii) |
@@ -1702,6 +1704,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0258-add-digits) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2716-prime-subtraction-operation) |
@@ -1738,6 +1741,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0204-count-primes) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Monotonic Stack
