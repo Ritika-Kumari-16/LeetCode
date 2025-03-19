@@ -363,6 +363,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1039-find-the-town-judge) |
+| [1046-max-consecutive-ones-iii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1063-best-sightseeing-pair](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1073-number-of-enclaves) |
@@ -722,6 +723,7 @@
 | [0729-my-calendar-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0732-my-calendar-iii) |
+| [1046-max-consecutive-ones-iii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1753-path-with-minimum-effort](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -1591,6 +1593,7 @@
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0732-my-calendar-iii) |
+| [1046-max-consecutive-ones-iii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -1695,6 +1698,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1046-max-consecutive-ones-iii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
