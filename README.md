@@ -604,6 +604,7 @@
 | [2035-count-sub-islands](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2035-count-sub-islands) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
@@ -630,6 +631,7 @@
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2793-count-the-number-of-complete-components](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -1393,6 +1395,7 @@
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Tree
 |  |
@@ -1508,6 +1511,7 @@
 | [2564-most-profitable-path-in-a-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
