@@ -472,6 +472,7 @@
 | [2831-number-of-beautiful-pairs](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2868-continuous-subarrays](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2868-continuous-subarrays) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3194-find-words-containing-character](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -591,6 +592,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3430-count-days-without-meetings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3430-count-days-without-meetings) |
@@ -731,6 +733,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2831-number-of-beautiful-pairs](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
