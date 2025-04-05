@@ -1271,6 +1271,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0874-backspace-string-compare](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0916-decoded-string-at-index](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0916-decoded-string-at-index) |
+| [0937-online-stock-span](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -1787,6 +1788,7 @@
 | [0732-my-calendar-iii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0732-my-calendar-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0859-design-circular-deque) |
+| [0937-online-stock-span](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0937-online-stock-span) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -1848,6 +1850,7 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0937-online-stock-span](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Quickselect
 |  |
@@ -1877,6 +1880,7 @@
 | [0503-next-greater-element-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0937-online-stock-span](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
