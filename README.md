@@ -692,6 +692,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0451-sort-characters-by-frequency](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0460-lfu-cache](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -973,6 +974,7 @@
 | [0328-odd-even-linked-list](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0445-add-two-numbers-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0460-lfu-cache](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0460-lfu-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -1791,6 +1793,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0432-all-oone-data-structure](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0460-lfu-cache) |
 | [0729-my-calendar-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0732-my-calendar-iii) |
@@ -1833,6 +1836,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0460-lfu-cache) |
 ## Number Theory
 |  |
 | ------- |
