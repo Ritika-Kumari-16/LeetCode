@@ -348,6 +348,7 @@
 | [0518-coin-change-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0542-01-matrix) |
+| [0621-task-scheduler](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -577,6 +578,7 @@
 | [0455-assign-cookies](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0621-task-scheduler](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0721-accounts-merge](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0778-reorganize-string) |
@@ -695,6 +697,7 @@
 | [0460-lfu-cache](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0721-accounts-merge) |
@@ -926,6 +929,7 @@
 | [0402-remove-k-digits](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0670-maximum-swap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -1655,6 +1659,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0744-network-delay-time](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0778-reorganize-string) |
@@ -1731,6 +1736,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
