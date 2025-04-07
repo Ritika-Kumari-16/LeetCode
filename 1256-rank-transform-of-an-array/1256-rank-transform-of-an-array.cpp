@@ -1,23 +1,31 @@
 class Solution {
 public:
-    std::vector<int> arrayRankTransform(std::vector<int>& arr) {
-        std::unordered_map<int, int> valueToRank;  // Map to store value-to-rank mapping
-        std::vector<int> sortedUniqueNumbers = arr; 
+    vector<int> arrayRankTransform(vector<int>& arr) {
+        int n = arr.size();
+        vector<int> res(n);
         
-        // Remove duplicates and sort
-        std::sort(sortedUniqueNumbers.begin(), sortedUniqueNumbers.end());
-        sortedUniqueNumbers.erase(std::unique(sortedUniqueNumbers.begin(), sortedUniqueNumbers.end()), sortedUniqueNumbers.end());
+        // Min-heap with pair of (element, index)
+        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
         
-        // Assign ranks to sorted unique elements
-        for (int i = 0; i < sortedUniqueNumbers.size(); i++) {
-            valueToRank[sortedUniqueNumbers[i]] = i + 1;
+        for (int i = 0; i < n; i++) {
+            pq.push({arr[i], i});
         }
 
-        // Replace each element in the original array with its rank
-        for (int i = 0; i < arr.size(); i++) {
-            arr[i] = valueToRank[arr[i]];
+        int rank = 1;
+        int prev = INT_MIN;
+        while (!pq.empty()) {
+            auto [val, idx] = pq.top();
+            pq.pop();
+
+            if (val != prev) {
+                prev = val;
+                res[idx] = rank;
+                rank++;
+            } else {
+                res[idx] = rank - 1;
+            }
         }
 
-        return arr;  // Return the updated array
+        return res;
     }
 };
