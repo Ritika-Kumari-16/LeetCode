@@ -510,6 +510,7 @@
 | [3643-zero-array-transformation-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3759-choose-k-elements-with-maximum-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -617,6 +618,7 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3430-count-days-without-meetings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3759-choose-k-elements-with-maximum-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 ## Union Find
 |  |
 | ------- |
@@ -1692,6 +1694,7 @@
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3759-choose-k-elements-with-maximum-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 ## Shortest Path
 |  |
 | ------- |
