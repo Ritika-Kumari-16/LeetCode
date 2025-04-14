@@ -407,6 +407,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1656-count-good-triplets](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1656-count-good-triplets) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -1908,6 +1909,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0204-count-primes) |
+| [1656-count-good-triplets](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2998-count-symmetric-integers](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2998-count-symmetric-integers) |
