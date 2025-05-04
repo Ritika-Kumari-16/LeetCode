@@ -387,6 +387,7 @@
 | [1121-partition-array-for-maximum-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1129-longest-string-chain) |
 | [1168-duplicate-zeros](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1168-duplicate-zeros) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1325-path-with-maximum-probability) |
@@ -743,6 +744,7 @@
 | [1039-find-the-town-judge](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1129-longest-string-chain](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1129-longest-string-chain) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -1807,6 +1809,7 @@
 | [0778-reorganize-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
