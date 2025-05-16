@@ -1,11 +1,17 @@
 class Solution {
 public:
-    static vector<string> getLongestSubsequence(vector<string>& words, vector<int>& groups) {
-        int n=groups.size(), len=1;
-        for_each(words.begin()+1, words.end(), [&, i=1](auto& x) mutable{
-            if(groups[i-1]!=groups[i++]) words[len++]=x;
-        });
-        words.resize(len);
-        return words;
+    vector<string> getLongestSubsequence(vector<string>& words, vector<int>& groups) {
+        vector<string>result;
+        int n = words.size();
+        result.push_back(words[0]);
+        for(int i=1;i<n;i++){
+            if(groups[i-1]==groups[i]){
+                continue;
+            }
+            else{
+                result.push_back(words[i]);
+            }
+        }
+        return result;
     }
 };
