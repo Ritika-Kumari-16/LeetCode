@@ -1,32 +1,35 @@
-int tdays(vector<int>arr,int capacity){
-    long long load=0;
-    int day=1;
-    for(int i=0;i<arr.size();i++){
-        if(load+arr[i]<=capacity){
-            load+=arr[i];
-        }
-        else{
-            day++;
-            load=arr[i];
-        }
-    }
-    return day;
-}
 class Solution {
 public:
-    int shipWithinDays(vector<int>& weights, int days) {
-        long long low= *max_element(weights.begin(),weights.end());
-        long long high=accumulate(weights.begin(),weights.end(),0);
-        while(low<=high){
-            long long mid=low+(high-low)/2;
-            long long totaldays=tdays(weights,mid);
-            if(totaldays>days){
-                low=mid+1;
+    int nodays(vector<int>&weights , int weight){
+        int reqdays=1;
+        int load=0;
+        for(int i=0;i<weights.size();i++){
+            if(load+weights[i]<=weight){
+                load+=weights[i];
             }
             else{
-                high=mid-1;
+                reqdays++;
+                load=weights[i];
             }
         }
-        return low;
+        return reqdays;
+    }
+    int shipWithinDays(vector<int>& weights, int days) {
+        int mini= *max_element(weights.begin(),weights.end());
+        int maxi = accumulate(weights.begin(),weights.end(),0);
+        int ans=-1;
+        while(mini<=maxi){
+            int mid= mini+(maxi-mini)/2;
+            int reqdays=nodays(weights,mid);
+            if(reqdays>days){
+                mini=mid+1;
+            }
+            else{
+                ans= mid;
+                maxi=mid-1;
+            }
+        }
+        return ans;
+        
     }
 };
