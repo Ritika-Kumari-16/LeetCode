@@ -386,6 +386,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
@@ -837,6 +838,7 @@
 | [0731-my-calendar-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0732-my-calendar-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1753-path-with-minimum-effort](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1753-path-with-minimum-effort) |
