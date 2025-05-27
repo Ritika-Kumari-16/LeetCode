@@ -1,35 +1,32 @@
 class Solution {
 public:
-    void solve( int n, string &temp, vector<string> &result , int open, int close ){
-        if(temp.size()==n*2 && close==open){
+    void solve ( int o , int c ,string &temp , vector<string>&result , int n){
+        if(o == n && c== n){
             result.push_back(temp);
-            return ;
+            return;
         }
-        //taking (
-        if(open <n){
-            temp.push_back('(');
-            open++;
-            solve(n,temp,result,open,close);
+        // take
+        if(o<n){
+            temp+="(";
+            o++;
+            solve(o,c,temp,result,n);
             temp.pop_back();
-            open--;
+            o--;
         }
-        
-        //taking )
-        if(close <open){
-            temp.push_back(')');
-            close++;
-            solve(n,temp,result,open,close);
+        if(c<o){
+            temp+=")";
+            c++;
+            solve(o,c,temp,result,n);
             temp.pop_back();
-            close--;
+            c--;
         }
-
     }
     vector<string> generateParenthesis(int n) {
         vector<string>result;
         string temp="";
-        int open=0;
-        int close=0;
-        solve(n,temp,result,open , close);
+        int c=0;
+        int o=0;
+        solve(o,c,temp,result,n);
         return result;
         
     }
