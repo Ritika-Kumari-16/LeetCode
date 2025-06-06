@@ -724,6 +724,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2455-node-with-highest-edge-score](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2455-node-with-highest-edge-score) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2793-count-the-number-of-complete-components](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
@@ -817,6 +818,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2434-design-a-number-container-system](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2455-node-with-highest-edge-score](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2455-node-with-highest-edge-score) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
