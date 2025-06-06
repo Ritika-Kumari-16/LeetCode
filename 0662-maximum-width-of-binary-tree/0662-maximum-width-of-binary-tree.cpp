@@ -11,29 +11,32 @@
  */
 class Solution {
 public:
+    typedef long long ll;
     int widthOfBinaryTree(TreeNode* root) {
-        if(!root) return 0;
-        long long  ans=0;
-        queue<pair<TreeNode* , long long >>q;
+        ll ans=0;
+        if(root==NULL) return ans;
+        queue<pair<TreeNode*,ll >>q;
         q.push({root,0});
         while(!q.empty()){
-            long long siz= q.size();
-            long long mini= q.front().second;
-            long long first,last;
-            for(long long i=0;i<siz;i++){
-                long long curid= q.front().second-mini;
+            ll  sz = q.size();
+            ll mini= q.front().second;
+            ll first, last;
+            for(int i=0;i<sz;i++){
                 TreeNode* node= q.front().first;
+                ll curr_id=q.front().second-mini;
                 q.pop();
-                if(i==0) first=curid;
-                if(i==siz-1) last=curid;
-                if(node->left){ 
-                    q.push({node->left,curid*2+1});
-                    }
-                if(node->right){
-                    q.push({node->right,curid*2+2});
+                if(i==0) first=curr_id;
+                if(i==sz-1) last=curr_id;
+                ans=max(ans, last-first+1);
+                if(node->left) {
+                    q.push({node->left,curr_id*2+1});
                 }
-                ans= max(ans,last-first+1);
+                if(node->right) {
+                    q.push({node->right,curr_id*2+2});
+                }
+
             }
+
         }
         return ans;
     }
