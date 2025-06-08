@@ -1,20 +1,23 @@
+using namespace std;
+
 class Solution {
 public:
-    vector<int> ans;
-    int n;
-    void f(int i){
-        if (i>n) return;
-        if (i>0) ans.push_back(i);
-        for(int j=(i==0)?1:0; j<=9; j++){
-            int x=10*i+j;
-            if (x>n) break;
-            f(x);
+    static vector<int> lexicalOrder(int n) {
+        vector<int> ans;
+        for (int i = 1; i <= 9; ++i) {
+            dfs(i, n, ans);
         }
-    }
-    vector<int> lexicalOrder(int n) {
-        this->n=n;
-        ans.reserve(n);
-        f(0);
         return ans;
+    }
+
+private:
+    static void dfs(int cur, int n, vector<int>& ans) {
+        if (cur > n) return;
+        ans.push_back(cur);
+        for (int d = 0; d <= 9; ++d) {
+            int next = cur * 10 + d;
+            if (next > n) break;
+            dfs(next, n, ans);
+        }
     }
 };
