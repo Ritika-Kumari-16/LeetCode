@@ -378,6 +378,7 @@
 | [0890-lemonade-change](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0906-walking-robot-simulation) |
+| [0912-random-pick-with-weight](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0945-snakes-and-ladders](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0945-snakes-and-ladders) |
@@ -872,6 +873,7 @@
 | [0731-my-calendar-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0732-my-calendar-iii) |
 | [0794-swim-in-rising-water](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0912-random-pick-with-weight](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -1185,6 +1187,7 @@
 | [0650-2-keys-keyboard](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0912-random-pick-with-weight](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [0935-orderly-queue](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0935-orderly-queue) |
 | [1018-largest-perimeter-triangle](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1033-broken-calculator](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1033-broken-calculator) |
@@ -1913,6 +1916,7 @@
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0732-my-calendar-iii) |
+| [0912-random-pick-with-weight](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -2166,4 +2170,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+## Randomized
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->
