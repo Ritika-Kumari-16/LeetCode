@@ -1237,6 +1237,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0342-power-of-four](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0394-decode-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -1301,6 +1302,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0443-string-compression) |
@@ -1432,6 +1434,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0496-next-greater-element-i) |
