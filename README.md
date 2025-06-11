@@ -372,6 +372,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0794-swim-in-rising-water](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0808-number-of-matching-subsequences](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0854-making-a-large-island](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0859-design-circular-deque) |
 | [0876-hand-of-straights](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0876-hand-of-straights) |
@@ -639,6 +640,7 @@
 | [0778-reorganize-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0778-reorganize-string) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0808-number-of-matching-subsequences](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0876-hand-of-straights](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0876-hand-of-straights) |
 | [0935-orderly-queue](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0935-orderly-queue) |
 | [1018-largest-perimeter-triangle](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -779,6 +781,7 @@
 | [0721-accounts-merge](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0808-number-of-matching-subsequences](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0876-hand-of-straights](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0876-hand-of-straights) |
 | [0889-buddy-strings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0889-buddy-strings) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -873,6 +876,7 @@
 | [0731-my-calendar-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0732-my-calendar-iii) |
 | [0794-swim-in-rising-water](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0808-number-of-matching-subsequences](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0912-random-pick-with-weight](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -953,6 +957,7 @@
 | [0741-cherry-pickup](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0741-cherry-pickup) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
+| [0808-number-of-matching-subsequences](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0868-push-dominoes](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
@@ -1325,6 +1330,7 @@
 | [0657-robot-return-to-origin](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0721-accounts-merge](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0778-reorganize-string) |
+| [0808-number-of-matching-subsequences](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0812-rotate-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0874-backspace-string-compare) |
@@ -1844,6 +1850,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0472-concatenated-words](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0472-concatenated-words) |
+| [0808-number-of-matching-subsequences](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
