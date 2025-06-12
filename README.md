@@ -822,6 +822,7 @@
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2161-stock-price-fluctuation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2161-stock-price-fluctuation) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -1044,6 +1045,7 @@
 | [0731-my-calendar-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0732-my-calendar-iii) |
 | [1946-minimum-absolute-sum-difference](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1946-minimum-absolute-sum-difference) |
+| [2161-stock-price-fluctuation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2161-stock-price-fluctuation) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2868-continuous-subarrays) |
@@ -1899,6 +1901,7 @@
 | [1753-path-with-minimum-effort](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2161-stock-price-fluctuation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2161-stock-price-fluctuation) |
 | [2164-two-best-non-overlapping-events](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2434-design-a-number-container-system](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2434-design-a-number-container-system) |
@@ -2062,6 +2065,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2161-stock-price-fluctuation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2161-stock-price-fluctuation) |
 | [2434-design-a-number-container-system](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Sliding Window
 |  |
@@ -2133,6 +2137,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [2161-stock-price-fluctuation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2161-stock-price-fluctuation) |
 ## Quickselect
 |  |
 | ------- |
