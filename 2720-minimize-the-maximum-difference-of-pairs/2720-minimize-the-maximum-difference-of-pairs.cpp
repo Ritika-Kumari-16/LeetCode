@@ -18,18 +18,19 @@ public:
         sort(nums.begin(), nums.end());
         int n = nums.size();
         int left = 0, right = nums[n - 1] - nums[0];
-
-        while (left < right) {
+        int ans;
+        while (left <= right) {
             int mid = left + (right - left) / 2;
 
             // If there are enough pairs, look for a smaller threshold.
             // Otherwise, look for a larger threshold.
             if (countValidPairs(nums, mid) >= p) {
-                right = mid;
+                ans=mid;
+                right = mid-1;
             } else {
                 left = mid + 1;
             }
         }
-        return left;
+        return ans;
     }
 };
