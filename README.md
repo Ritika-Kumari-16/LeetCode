@@ -564,6 +564,7 @@
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 ## Two Pointers
 |  |
@@ -619,6 +620,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3195-separate-black-and-white-balls](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 ## Sorting
 |  |
 | ------- |
