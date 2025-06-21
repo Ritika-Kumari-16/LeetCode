@@ -1,15 +1,20 @@
 class Solution {
 public:
     int partitionArray(vector<int>& nums, int k) {
-        ranges::sort(nums);
-        int ans = 1;
-        int rec = nums[0];
-        for (int i = 0; i < nums.size(); i++) {
-            if (nums[i] - rec > k) {
-                ans++;
-                rec = nums[i];
+        sort(nums.begin(),nums.end());
+        int i=0;
+        int n = nums.size();
+        int mini=nums[0];
+        int cntsub=0;
+        while(i<n){
+            while(i<n && nums[i]-mini<=k){
+                i++;
             }
+            if(i<n) {
+                mini=nums[i];}
+            cntsub++;
         }
-        return ans;
+
+        return cntsub;
     }
 };
