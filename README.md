@@ -285,6 +285,7 @@
 | [0045-jump-game-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0056-merge-intervals) |
@@ -931,6 +932,7 @@
 | [0042-trapping-rain-water](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -1019,6 +1021,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0190-reverse-bits](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0190-reverse-bits) |
