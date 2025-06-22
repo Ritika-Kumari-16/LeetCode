@@ -1,19 +1,27 @@
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
-        int sum = 0;
-        int maxi = INT_MIN;
-        int i;
-        for (int i = 0; i < nums.size(); i++) {
-            sum += nums[i];
-            if(sum>maxi){
-                maxi=sum;
+        int psum=0;
+        int maxsum=-1;
+        int nsum=0;
+        int maxnsum=INT_MIN;
+        int n = nums.size();
+        int l=0;
+        while(l<n){
+            if(psum+nums[l]>=0){
+                nsum=0;
+                psum+=nums[l];
+                maxsum=max(maxsum,psum);
             }
-            if (sum < 0) {
-                sum = 0;
+            else{
+                psum=0;
+                nsum=nums[l];
+                maxnsum=max(maxnsum,nsum);
             }
-
+            l++;
+            
         }
-        return maxi;
+        if(maxsum !=-1 ) return maxsum;
+        return maxnsum;
     }
 };
