@@ -18,21 +18,20 @@ public:
                 count++;
             }
             right--;
-            if(top<=bottom){
+            // if(top<=bottom){
                 for(int i= right;i>=left;i--){
                     matrix[bottom][i]=count;
                     count++;
                 }
                 bottom--;
-            }
-            if(left<=right){
+            
+            // if(left<=right){
                 for(int i=bottom ; i>=top;i--){
                     matrix[i][left]=count;
                     count++;
 
                 }
                 left++;
-            }
         }
         return matrix;
         
