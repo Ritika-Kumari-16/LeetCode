@@ -325,6 +325,7 @@
 | [0213-house-robber-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -633,6 +634,7 @@
 | [0088-merge-sorted-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0324-wiggle-sort-ii) |
@@ -777,6 +779,7 @@
 | [0202-happy-number](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0299-bulls-and-cows) |
