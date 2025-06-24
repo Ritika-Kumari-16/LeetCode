@@ -569,6 +569,7 @@
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3759-choose-k-elements-with-maximum-sum) |
+| [3795-zero-array-transformation-iv](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3795-zero-array-transformation-iv) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1023,6 +1024,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3795-zero-array-transformation-iv](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3795-zero-array-transformation-iv) |
 ## Divide and Conquer
 |  |
 | ------- |
