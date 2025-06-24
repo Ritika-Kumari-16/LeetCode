@@ -481,6 +481,7 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2360-substring-with-largest-variance](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2360-substring-with-largest-variance) |
@@ -616,6 +617,7 @@
 | [1923-sentence-similarity-iii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2551-apply-operations-to-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
