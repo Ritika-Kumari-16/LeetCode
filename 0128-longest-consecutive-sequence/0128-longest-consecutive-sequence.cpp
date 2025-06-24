@@ -8,7 +8,7 @@ public:
             st.insert(nums[i]);
         }
         int maxlen=1;
-        for(auto &el :st){
+        for(auto el :st){
             if(st.find(el-1)==st.end()){
                 int count=1;
                 int x=el+1;
