@@ -356,6 +356,7 @@
 | [0493-reverse-pairs](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0518-coin-change-ii) |
@@ -807,6 +808,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -1382,6 +1384,7 @@
 | [0472-concatenated-words](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0481-magical-string) |
+| [0500-keyboard-row](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0520-detect-capital) |
 | [0539-minimum-time-difference](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0539-minimum-time-difference) |
