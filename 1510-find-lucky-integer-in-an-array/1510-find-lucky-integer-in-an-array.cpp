@@ -1,17 +1,20 @@
 class Solution {
 public:
     int findLucky(vector<int>& arr) {
-        int number=-1;
-        map<int,int>hashmap;
-        for(int i=0;i<arr.size();i++){
-            hashmap[arr[i]]++;
+        unordered_map<int, int> freq;
 
+        for (int num : arr) {
+            freq[num]++;
         }
-        for(auto it : hashmap){
-            if(it.first==it.second){
-                number=it.first;
+
+        int lucky = -1;
+
+        for (auto& [key, value] : freq) {
+            if (key == value) {
+                lucky = max(lucky, key);
             }
         }
-        return number;
+
+        return lucky;
     }
 };
