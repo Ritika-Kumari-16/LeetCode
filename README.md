@@ -463,6 +463,7 @@
 | [2035-count-sub-islands](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2035-count-sub-islands) |
 | [2048-build-array-from-permutation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2145-grid-game) |
@@ -856,6 +857,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2161-stock-price-fluctuation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2161-stock-price-fluctuation) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -2087,6 +2089,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
