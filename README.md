@@ -465,6 +465,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2035-count-sub-islands) |
+| [2047-find-a-peak-element-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -939,6 +940,7 @@
 | [1946-minimum-absolute-sum-difference](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1946-minimum-absolute-sum-difference) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2047-find-a-peak-element-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -1675,6 +1677,7 @@
 | [1753-path-with-minimum-effort](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2035-count-sub-islands) |
+| [2047-find-a-peak-element-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2145-grid-game](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2411-spiral-matrix-iv](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2411-spiral-matrix-iv) |
