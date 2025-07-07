@@ -1,40 +1,37 @@
-#include <bits/stdc++.h>
-#include <iostream>
-using namespace std;
-bool fun(vector<int>& bloomDay, long long j, int m, int k) {
-    long long count = 0;
-    long long bouno = 0;
-    for (int i = 0; i < bloomDay.size(); i++) {
-        if (bloomDay[i] <= j) {
-            count++;
-        } else {
-            bouno += count / k;
-            count = 0;
-        }
-    }
-    bouno += count / k;
-    if(bouno>=m) {return true;}
-    return false;
-}
-
 class Solution {
+    typedef long long ll;
 public:
-    int minDays(vector<int>& bloomDay, int m, int k) {
-        long long n = bloomDay.size();
-        if (1ll*n < 1ll*m * k)
-            return -1;
-        long long low = *min_element(bloomDay.begin(), bloomDay.end());
-        long long high = *max_element(bloomDay.begin(), bloomDay.end());
-        long long ans = high;
-        while (low <= high) {
-            long long mid = low + (high - low) / 2;
-            if (fun(bloomDay, mid, m, k) == true) {
-                ans=min(ans,mid);
-                high = mid - 1;
-            } else {
-                low = mid + 1;
+    long long solve(vector<int>&bloomDay , int day , int k){
+        ll possbouq=0;
+        ll count=0;
+        for(int i=0;i<bloomDay.size();i++){
+            if(bloomDay[i]<=day){
+                count++;
+            }
+            else{
+                possbouq+=(count/k);
+                count=0;
             }
         }
-        return ans;
+        possbouq+=(count/k);
+        return possbouq;
+    }
+    int minDays(vector<int>& bloomDay, int m, int k) {
+        long long  n = bloomDay.size();
+
+        if(1ll * m * 1ll* k > n) return -1;
+        ll low= *min_element(bloomDay.begin(),bloomDay.end());
+        ll high=*max_element(bloomDay.begin(),bloomDay.end());
+        while(low<=high){
+            ll mid= low+(high-low)/2;
+            ll possbouq= solve(bloomDay,mid,k);
+            if(possbouq>=m){
+                high=mid-1;
+            }
+            else{
+                low=mid+1;
+            }
+        }
+        return low;
     }
 };
