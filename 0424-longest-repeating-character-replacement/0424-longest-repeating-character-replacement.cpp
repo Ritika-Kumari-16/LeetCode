@@ -13,10 +13,10 @@ public:
             }
             if((r-l+1)-maxfreq >k){
                 freqarr[s[l]-'A']--;
-                maxfreq=0;
-                for(int i=0;i<26;i++){
-                    maxfreq=max(maxfreq,freqarr[i]);
-                }
+                // maxfreq=0;
+                // for(int i=0;i<26;i++){
+                //     maxfreq=max(maxfreq,freqarr[i]);
+                // }
                 l++;
             }
             int len=r-l+1;
