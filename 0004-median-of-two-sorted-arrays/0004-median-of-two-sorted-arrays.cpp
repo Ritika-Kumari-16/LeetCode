@@ -1,49 +1,47 @@
 class Solution {
 public:
-    double findMedianSortedArrays(vector<int> &nums1, vector<int> &nums2) {
-        int n1 = nums1.size(), n2 = nums2.size();
-        
-        // Ensure nums1 is the smaller array for simplicity
-        if (n1 > n2)
-            return findMedianSortedArrays(nums2, nums1);
-        
-        int n = n1 + n2;
-        int left = (n1 + n2 + 1) / 2; // Calculate the left partition size
-        int low = 0, high = n1;
-        
-        while (low <= high) {
-            int mid1 = (low + high) >> 1; // Calculate mid index for nums1
-            int mid2 = left - mid1; // Calculate mid index for nums2
-            
-            int l1 = INT_MIN, l2 = INT_MIN, r1 = INT_MAX, r2 = INT_MAX;
-            
-            // Determine values of l1, l2, r1, and r2
-            if (mid1 < n1)
-                r1 = nums1[mid1];
-            if (mid2 < n2)
-                r2 = nums2[mid2];
-            if (mid1 - 1 >= 0)
-                l1 = nums1[mid1 - 1];
-            if (mid2 - 1 >= 0)
-                l2 = nums2[mid2 - 1];
-            
-            if (l1 <= r2 && l2 <= r1) {
-                // The partition is correct, we found the median
-                if (n % 2 == 1)
-                    return max(l1, l2);
-                else
-                    return ((double)(max(l1, l2) + min(r1, r2))) / 2.0;
+    double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
+        int n = nums1.size();
+        int m= nums2.size();
+        if(n>m) return findMedianSortedArrays(nums2,nums1);
+
+        int noofele= (n+m+1)/2;
+        int low=0;
+        int high=n;
+        while(low<=high){
+            int mid= low+(high-low)/2;
+            int remel=noofele-mid;
+            int l1=INT_MIN,l2=INT_MIN;
+            int r1=INT_MAX , r2 = INT_MAX;
+            if(mid-1>=0){
+                l1=nums1[mid-1];
             }
-            else if (l1 > r2) {
-                // Move towards the left side of nums1
-                high = mid1 - 1;
+            if(mid<n){
+                r1=nums1[mid];
             }
-            else {
-                // Move towards the right side of nums1
-                low = mid1 + 1;
+            if(remel-1>=0){
+                l2=nums2[remel-1];
+            }
+            if(remel<m){
+                r2=nums2[remel];
+            }
+            if(l1<=r2 && l2<=r1){
+                int left= max(l1,l2);
+                int right=min(r1,r2);
+                if((n+m)%2 ==0 ){
+                    return (double)(left+right)/ (double )2;
+                }
+                else{
+                    return left;
+                }
+            }
+            else if(l1>r2){
+                high=mid-1;
+            }
+            else{
+                low=mid+1;
             }
         }
-        
-        return 0; // If the code reaches here, the input arrays were not sorted.
+        return 0;
     }
 };
