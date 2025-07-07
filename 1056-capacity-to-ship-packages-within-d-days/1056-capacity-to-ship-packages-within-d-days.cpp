@@ -1,35 +1,33 @@
 class Solution {
-public:
-    int nodays(vector<int>&weights , int weight){
-        int reqdays=1;
-        int load=0;
+    typedef long long ll;
+    ll solve(vector<int>&weights , int wgh){
+        ll totaldays=1;
+        ll weight=0;
         for(int i=0;i<weights.size();i++){
-            if(load+weights[i]<=weight){
-                load+=weights[i];
+            if(weight+weights[i]<=wgh){
+                weight+=weights[i];
             }
             else{
-                reqdays++;
-                load=weights[i];
+                weight=weights[i];
+                totaldays++;
             }
         }
-        return reqdays;
+        return totaldays;
     }
+public:
     int shipWithinDays(vector<int>& weights, int days) {
-        int mini= *max_element(weights.begin(),weights.end());
-        int maxi = accumulate(weights.begin(),weights.end(),0);
-        int ans=-1;
-        while(mini<=maxi){
-            int mid= mini+(maxi-mini)/2;
-            int reqdays=nodays(weights,mid);
-            if(reqdays>days){
-                mini=mid+1;
+        ll low= *max_element(weights.begin(),weights.end());
+        ll high = accumulate(weights.begin(),weights.end(),0);
+        while(low<=high){
+            ll mid= low+(high-low)/2;
+            ll totaldays= solve(weights,mid);
+            if(totaldays<=days){
+                high=mid-1;
             }
             else{
-                ans= mid;
-                maxi=mid-1;
+                low=mid+1;
             }
         }
-        return ans;
-        
+        return low;
     }
 };
