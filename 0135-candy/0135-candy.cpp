@@ -2,32 +2,30 @@ class Solution {
 public:
     int candy(vector<int>& ratings) {
         int n= ratings.size();
-        int i=1;
-        int sum=1;
-        while(i<n){
-            if(ratings[i]==ratings[i-1]){
-                sum+=1;
-                i++;
-                continue;
-
+        if(n==1) return 1;
+        vector<int>left(n,0);
+        left[0]=1;
+        for(int i=1;i<n;i++){
+            if(ratings[i]>ratings[i-1]){
+                left[i]=left[i-1]+1;
             }
-            int peak=1;
-            while(i<n && ratings[i]>ratings[i-1]){
-                peak+=1;
-                sum+=peak;
-                i++;
-            }
-            int down=1;
-            while(i<n && ratings[i]<ratings[i-1]){
-                sum+=down;
-                down++;
-                i++;
-            }
-            if(down>peak){
-                sum+=down-peak;
+            else{
+                left[i]=1;
             }
         }
-        return sum;
-        
+        int rightval=1;
+        int maxcandies=0;
+        maxcandies+=(max(rightval,left[n-1]));
+        for(int i=n-2;i>=0;i--){
+            if(ratings[i]>ratings[i+1]){
+                rightval+=1;
+                
+            }
+            else{
+                rightval=1;
+            }
+            maxcandies+=max(rightval,left[i]);
+        }
+        return maxcandies;
     }
 };
