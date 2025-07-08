@@ -1,11 +1,11 @@
 class Solution {
 public:
-int solve (vector<int>&nums , int k){
-        unordered_map<int,int>mpp;
+int countsub(vector<int>&nums, int k){
+    if(k<0) return 0;
+        int l=0,r=0;
         int n= nums.size();
-        int l=0;
-        int r=0;
-        int cnt=0;
+        int count=0;
+        unordered_map<int,int>mpp;
         while(r<n){
             mpp[nums[r]]++;
             while(mpp.size()>k){
@@ -16,15 +16,14 @@ int solve (vector<int>&nums , int k){
                 l++;
             }
             if(mpp.size()<=k){
-                cnt+=(r-l+1);
+                count+=r-l+1;
             }
             r++;
         }
-        return cnt;
-
+        return count;
 }
     int subarraysWithKDistinct(vector<int>& nums, int k) {
-        return solve(nums,k)-solve(nums,k-1);
 
+        return countsub(nums,k)-countsub(nums,k-1);
     }
 };
