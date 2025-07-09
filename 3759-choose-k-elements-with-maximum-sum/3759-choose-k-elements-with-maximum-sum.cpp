@@ -1,31 +1,33 @@
 class Solution {
 public:
-typedef long long ll;
-    vector<long long> findMaxSum(vector<int>& nums1, vector<int>& nums2, int k) {
-        int n= nums1.size();
-        vector<vector<int>>vec(n);
-        vector<ll>ans(n,0);
-        for(int i=0;i<n;i++){
-            vec[i]={nums1[i],i,nums2[i]};
+    vector<long long> findMaxSum(vector<int>& nums1, vector<int>& nums2,
+                                 int k) {
+        vector<pair<int,pair<int, int>>> nums;
+        for (int i = 0; i < nums1.size(); i++) {
+            nums.push_back({nums1[i], {i,nums2[i]}});
         }
-        sort(vec.begin(),vec.end());
-        priority_queue<ll,vector<ll>,greater<ll>>pq;
-        ll sum=0;
-        for(int i=0;i<n;i++){
-            if(i>0 && vec[i-1][0]==vec[i][0]){
-                ll sum1= ans[vec[i-1][1]];
-                ans[vec[i][1]]=sum1;
+        sort(nums.begin(), nums.end());
+        long long sum = 0;
+        vector<long long> result(nums1.size(), 0);
+        priority_queue<int, vector<int>, greater<int>> pq;
+        for (int i = 0; i < nums.size(); i++) {
+            if(i>0 && nums[i].first==nums[i-1].first){
+                int idx= nums[i-1].second.first;
+                long long ans= result[idx];
+                result[nums[i].second.first]=ans;
             }
             else{
-                ans[vec[i][1]]=sum;
+                int idx= nums[i].second.first;
+                result[idx]=sum;
             }
-            sum+=vec[i][2];
-            pq.push(vec[i][2]);
+            sum+=nums[i].second.second;
+            pq.push(nums[i].second.second);
             if(pq.size()>k){
                 sum-=pq.top();
                 pq.pop();
             }
+ 
         }
-        return ans;
+        return result;
     }
 };
