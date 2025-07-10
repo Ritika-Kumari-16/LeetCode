@@ -1,94 +1,88 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
-
-
-
-    vector<int> NSE(vector<int>& arr, int n) {
-        vector<int> nse(n);
-        stack<int> st;
-        for (int i = n - 1; i >= 0; i--) {
-            while (!st.empty() && arr[st.top()] >= arr[i]) {
-                st.pop();
-            }
-            nse[i] = st.empty() ? n : st.top();
-            st.push(i);
-        }
-        return nse;
-    }
-
-    vector<int> PSEE(vector<int>& arr, int n) {
-        vector<int> psee(n);
-        stack<int> st;
-        for (int i = 0; i < n; i++) {
-            while (!st.empty() && arr[st.top()] > arr[i]) {
-                st.pop();
-            }
-            psee[i] = st.empty() ? -1 : st.top();
-            st.push(i);
-        }
-        return psee;
-    }
-
-    vector<int> NGE(vector<int>& arr, int n) {
-        vector<int> nge(n);
-        stack<int> st;
-        for (int i = n - 1; i >= 0; i--) {
-            while (!st.empty() && arr[st.top()] < arr[i]) {
-                st.pop();
-            }
-            nge[i] = st.empty() ? n : st.top();
-            st.push(i);
-        }
-        return nge;
-    }
-
-    vector<int> PGEE(vector<int>& arr, int n) {
-        vector<int> pgee(n);
-        stack<int> st;
-        for (int i = 0; i < n; i++) {
-            while (!st.empty() && arr[st.top()] <= arr[i]) {
-                st.pop();
-            }
-            pgee[i] = st.empty() ? -1 : st.top();
-            st.push(i);
-        }
-        return pgee;
-    }
-
-    long long sumSubarrayMins(vector<int>& arr) {
+    void ngeidx(vector<int>&arr , vector<int>&nge ){
         int n = arr.size();
-        long long res = 0;
-        
-        vector<int> nse = NSE(arr, n);
-        vector<int> psee = PSEE(arr, n);
-
-        for (int i = 0; i < n; i++) {
-            long long r = nse[i] - i;
-            long long l = i - psee[i];
-            res = (res + (l * r * arr[i])) ;
+        stack<int>st;
+        for(int i=n-1;i>=0;i--){
+            while(!st.empty() && arr[st.top()] <arr[i]){
+                st.pop();
+            }
+            if(!st.empty()){
+                nge[i]=st.top();
+            }
+            st.push(i);
         }
-        return res;
     }
-
+    void pgeidx(vector<int>&arr , vector<int>&pge ){
+        int n = arr.size();
+        stack<int>st;
+        for(int i=0;i<n;i++){
+            while(!st.empty() && arr[st.top()] <=arr[i]){
+                st.pop();
+            }
+            if(!st.empty()){
+                pge[i]=st.top();
+            }
+            st.push(i);
+        }
+    }
     long long sumSubarrayMaxs(vector<int>& arr) {
         int n = arr.size();
-        long long res2 = 0;
-        
-        vector<int> nge = NGE(arr, n);
-        vector<int> pgee = PGEE(arr, n);
-
-        for (int i = 0; i < n; i++) {
-            long long r = nge[i] - i;
-            long long l = i - pgee[i];
-            res2 = (res2 + (l * r* arr[i]));
+        long long total=0;
+        vector<int>nge(n,n);
+        vector<int>pge(n,-1);
+        ngeidx(arr,nge);
+        pgeidx(arr,pge);
+        for(int i=0;i<n;i++){
+            int el= arr[i];
+            int left=i-pge[i];
+            int right= nge[i]-i;
+            total=(total+(left*right*1ll * el));
         }
-        return res2;
+        return total;
     }
-
+    void nseidx(vector<int>&arr , vector<int>&nse ){
+        int n = arr.size();
+        stack<int>st;
+        for(int i=n-1;i>=0;i--){
+            while(!st.empty() && arr[st.top()] >arr[i]){
+                st.pop();
+            }
+            if(!st.empty()){
+                nse[i]=st.top();
+            }
+            st.push(i);
+        }
+    }
+    void pseidx(vector<int>&arr , vector<int>&pse ){
+        int n = arr.size();
+        stack<int>st;
+        for(int i=0;i<n;i++){
+            while(!st.empty() && arr[st.top()] >=arr[i]){
+                st.pop();
+            }
+            if(!st.empty()){
+                pse[i]=st.top();
+            }
+            st.push(i);
+        }
+    }
+    long long sumSubarrayMins(vector<int>& arr) {
+        int n = arr.size();
+        long long total=0;
+        vector<int>nse(n,n);
+        vector<int>pse(n,-1);
+        nseidx(arr,nse);
+        pseidx(arr,pse);
+        for(int i=0;i<n;i++){
+            int el= arr[i];
+            int left=i-pse[i];
+            int right= nse[i]-i;
+            total+=(left*right*1ll * el);
+        }
+        return total;
+    }
     long long subArrayRanges(vector<int>& nums) {
-        return (sumSubarrayMaxs(nums) - sumSubarrayMins(nums)) ;
+        return sumSubarrayMaxs(nums) - sumSubarrayMins(nums);
     }
 };
