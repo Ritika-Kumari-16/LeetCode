@@ -1,29 +1,25 @@
 class Solution {
 public:
     int maxEvents(vector<vector<int>>& events) {
-        // Sort events based on start day
-        sort(events.begin(), events.end());
-        
-        priority_queue<int, vector<int>, greater<int>> minHeap;
-        
-        int day = 0, index = 0, n = events.size(), result = 0;
-        
-        while (!minHeap.empty() || index < n) {
-            if (minHeap.empty()) {
-                day = events[index][0];
+        int n = events.size();
+        sort(events.begin(),events.end());
+        priority_queue<int,vector<int>,greater<int>>pq;
+        int count=0;
+        int day=events[0][0];
+        int i=0;
+        while(!pq.empty() || i<n){
+            if(pq.empty()) day= events[i][0];
+            while(i<n && events[i][0]== day){
+                pq.push(events[i][1]);
+                i++;
             }
-            while (index < n && events[index][0] <= day) {
-                minHeap.push(events[index][1]);
-                index++;
+            if(!pq.empty()){
+                count++;
+                pq.pop();
             }
-            minHeap.pop();
-            result++;
             day++;
-            
-            while (!minHeap.empty() && minHeap.top() < day) {
-                minHeap.pop();
-            }
+            while(!pq.empty() && pq.top()<day) pq.pop();
         }
-        return result;
+        return count;
     }
 };
