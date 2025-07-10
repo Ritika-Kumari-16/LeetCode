@@ -1372,6 +1372,7 @@
 | [0012-integer-to-roman](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0032-longest-valid-parentheses) |
@@ -1538,6 +1539,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
