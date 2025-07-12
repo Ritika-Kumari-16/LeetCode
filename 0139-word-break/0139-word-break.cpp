@@ -1,23 +1,24 @@
 class Solution {
 public:
-    bool wordBreaks(string s, unordered_set<string> &set, vector<int> &memo, int start){
-        if(start == s.size()){
+bool solve(int i , int n , string &s , vector<string>&wordDict,unordered_set<string>&st,vector<int>&dp){
+    if(i==n) return true;
+    if(dp[i]!=-1) return dp[i];
+    for(int idx=i;idx<n;idx++){
+        string t=s.substr(i,idx-i+1);
+        if(st.find(t)!=st.end() && solve(idx+1,n,s,wordDict,st,dp)){
+            dp[i]=true;
             return true;
         }
-        if(memo[start] != -1){
-            return memo[start];
-        }
-        for(int i=start; i<s.size(); i++){
-            if(set.count(s.substr(start, i+1-start)) && wordBreaks(s, set, memo, i+1)){
-                memo[start] = true;
-                return true;
-            }
-        }
-        return memo[start] = false;
     }
+    return dp[i]=false;
+}
     bool wordBreak(string s, vector<string>& wordDict) {
-        vector<int> memo(s.size(), -1);
-        unordered_set<string> set(wordDict.begin(), wordDict.end());
-        return wordBreaks(s, set, memo, 0);
+        unordered_set<string>st;
+        for(auto &it : wordDict){
+            st.insert(it);
+        }
+        vector<int>dp(s.size(),-1);
+        return solve(0,s.size(),s,wordDict,st,dp);
+        
     }
 };
