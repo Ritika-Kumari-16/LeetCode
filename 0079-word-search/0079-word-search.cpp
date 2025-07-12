@@ -1,33 +1,26 @@
 class Solution {
 public:
+    bool solve(int row , int col , int i , vector<vector<char>>&board , string &word , vector<vector<int>>&visited){
+        if(i==word.size()) return true;
+        int n = board.size();
+        int m= board[0].size();
+        if(row<0 || row>=n || col<0 || col>=m || visited[row][col]==1 ||board[row][col]!=word[i] ) return false;
+        visited[row][col]=1;
+        bool found (solve(row-1,col,i+1,board,word,visited) 
+                || solve(row,col-1,i+1,board,word,visited) 
+                || solve(row,col+1,i+1,board,word,visited) 
+                || solve(row+1,col,i+1,board,word,visited) );
+        visited[row][col]=-1;
+        return found;
+    }
     bool exist(vector<vector<char>>& board, string word) {
-        int m = board.size();
-        int n = board[0].size();
-        
-        function<bool(int, int, int)> backtrack = [&](int i, int j, int k) {
-            if (k == word.length()) {
-                return true;
-            }
-            if (i < 0 || i >= m || j < 0 || j >= n || board[i][j] != word[k]) {
-                return false;
-            }
-            
-            char temp = board[i][j];
-            board[i][j] = '\0';
-            
-            if (backtrack(i + 1, j, k + 1) || backtrack(i - 1, j, k + 1) || 
-                backtrack(i, j + 1, k + 1) || backtrack(i, j - 1, k + 1)) {
-                return true;
-            }
-            
-            board[i][j] = temp; 
-            return false;
-        };
-        
-        for (int i = 0; i < m; ++i) {
-            for (int j = 0; j < n; ++j) {
-                if (backtrack(i, j, 0)) {
-                    return true;
+        int n = board.size();
+        int m= board[0].size();
+        vector<vector<int>>visited(n,vector<int>(m,-1));
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(board[i][j]==word[0]){
+                    if(solve(i,j,0,board,word,visited)) return true;
                 }
             }
         }
