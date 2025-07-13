@@ -1,19 +1,16 @@
 class Solution {
 public:
-    int solve(int i , int j , vector<vector<int>>&triangle ,vector<vector<int>>&dp){
-        if(i==triangle.size()-1){
-            return triangle[triangle.size()-1][j];
-        }
-        if(dp[i][j]!=-1) return dp[i][j];
-        int s=triangle[i][j]+solve(i+1,j,triangle,dp);
-        int dg=triangle[i][j]+solve(i+1,j+1,triangle,dp);
-        return dp[i][j]= min(s,dg);
-    }
+int solve( int i , int j , int n , vector<vector<int>>&triangle , vector<vector<int>>&dp){
+    if(i==n-1) return triangle[i][j];
+    if(dp[i][j]!=-1) return dp[i][j];
+    int onejump=triangle[i][j]+solve(i+1,j,n,triangle,dp);
+    int skip = triangle[i][j]+solve(i+1,j+1,n,triangle,dp);
+    return dp[i][j]=min(onejump,skip);
+}
     int minimumTotal(vector<vector<int>>& triangle) {
-        int n= triangle.size();
+        int n = triangle.size();
         vector<vector<int>>dp(n,vector<int>(n,-1));
-        int mini= solve(0,0,triangle,dp);
-        return mini;
+        return solve(0,0,n,triangle,dp);
         
     }
 };
