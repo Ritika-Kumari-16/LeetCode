@@ -1,37 +1,52 @@
-// class Solution {
-// public:
-//     int solve(int n , int m , string s1 , string s2, vector<vector<int>>&dp){
-//         if(n<0||m<0) return 0;
-//         if(dp[n][m]!=-1) return dp[n][m];
-//         if(s1[n]==s2[m]) {return 1+ solve(n-1,m-1,s1,s2,dp);}
-//         return dp[n][m]=max(solve(n-1,m,s1,s2,dp),solve(n,m-1,s1,s2,dp));
-//     }
-//     int longestCommonSubsequence(string text1, string text2) {
-//         int n=text1.size();
-//         int m=text2.size();
-//         vector<vector<int>>dp(n,vector<int>(m,-1));
-//         return solve(n-1,m-1,text1,text2,dp);
-        
-//     }
-// };
 class Solution {
 public:
     int longestCommonSubsequence(string text1, string text2) {
-        vector<int> dp(text1.length(), 0);
-        int longest = 0;
-
-        for (char c : text2) {
-            int curLength = 0;
-            for (int i = 0; i < dp.size(); i++) {
-                if (curLength < dp[i]) {
-                    curLength = dp[i];
-                } else if (c == text1[i]) {
-                    dp[i] = curLength + 1;
-                    longest = max(longest, curLength + 1);
+        int n= text1.size();
+        int m = text2.size();
+        vector<int>dpprev(m+1,0);
+        vector<int>dpcur(m+1,0);
+        // for(int i=0;i<=n;i++){
+        //     dp[i][m]=0;
+        // }
+        // for(int j=0;j<=m;j++){
+        //     dp[n][j]=0;
+        // }
+        for(int i=n-1;i>=0;i--){
+            for(int j=m-1;j>=0;j--){
+                if(text1[i]==text2[j]){
+                    dpcur[j]=1+dpprev[j+1];
+                }
+                else{
+                    dpcur[j]=max(dpprev[j],dpcur[j+1]);
                 }
             }
+            dpprev=dpcur;
         }
-
-        return longest;        
+        return dpcur[0];
     }
 };
+
+// class Solution {
+// public:
+// int solve(int i , int j , int n , int m , string text1 , string text2 , vector<vector<int>>&dp){
+//     if(i==n || j== m) return 0;
+//     if(dp[i][j]!=-1 ) return dp[i][j];
+//     //if found 
+//     int found=0;
+//     if(text1[i]==text2[j]){
+//         found= 1+solve(i+1,j+1,n,m,text1,text2,dp);
+//     }
+//     else{
+//         found= max(solve(i+1,j,n,m,text1,text2,dp),solve(i,j+1,n,m,text1,text2,dp));
+//     }
+//     return dp[i][j]= found;
+
+// }
+//     int longestCommonSubsequence(string text1, string text2) {
+//         int n= text1.size();
+//         int m = text2.size();
+//         vector<vector<int>>dp(n,vector<int>(m,-1));
+//         return solve(0,0,n,m,text1,text2,dp);
+        
+//     }
+// };
