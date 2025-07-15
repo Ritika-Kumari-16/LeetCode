@@ -1,37 +1,41 @@
 class Solution {
 public:
-    static bool comp(const string &s1,const string &s2){
-        return s1.size()<s2.size();
+bool ispredecessor(string word1 , string word2){
+    int n= word1.size();
+    int m = word2.size();
+    if(n==m || n +1!=m) return false;
+    int i=0,j=0;
+    while(i<n && j<m){
+        if(word1[i]!= word2[j]){
+            j++;
+        }
+        else{
+            i++;
+            j++;
+        }
     }
-    bool checkpossible( string &s1 , string &s2){
-        if(s1.size()-1!=s2.size()){
-            return false;
-        }
-        int first=0;
-        int second=0;
-        while(first<s1.size()){
-            if(second<s2.size()&& s1[first]==s2[second]){
-                second++;
-            }
-                first++;
-        }
-        return second==s2.size();
+    if(i == n && j== m) return true;
+    if(i==n && j==m-1) return true;
+    return false;
 
-    }
-    int longestStrChain(vector<string>& arr) { 
-        int n= arr.size();
-        sort(arr.begin(),arr.end(),comp);
+
+
+}
+static bool comp(const string &a , const string &b){
+    return a.size()<b.size();
+}
+    int longestStrChain(vector<string>& words) {
+        sort(words.begin(),words.end(),comp);
+        int n= words.size();
         vector<int>dp(n,1);
         int maxi=1;
         for(int i=0;i<n;i++){
-            for(int prev=0;prev<i;prev++){
-                if(checkpossible(arr[i],arr[prev])&& 1+ dp[prev]>dp[i]){
-                    dp[i]=1+dp[prev];
+            for(int previdx=0;previdx<i;previdx++){
+                if(ispredecessor(words[previdx], words[i])){
+                    dp[i]=max(dp[i],1+dp[previdx]);
+                    maxi=max(maxi,dp[i]);
                 }
             }
-        }
-        for(int i=0;i<n;i++){
-            maxi=max(maxi,dp[i]);
         }
         return maxi;
     }
