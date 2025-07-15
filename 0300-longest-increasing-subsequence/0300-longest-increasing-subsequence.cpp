@@ -1,21 +1,20 @@
-#include<bits/stdc++.h>
-using namespace std;
 class Solution {
 public:
-    int solve(int ind,int last,vector<int>&nums , int n , vector<vector<int>>&dp){
-        if(ind==n) return 0;
-        if(dp[ind][last+1]!=-1) return dp[ind][last+1];
-        int nottake= 0 + solve(ind+1,last,nums,n,dp);
-        int take=-1;
-        if(last==-1 || nums[ind]>nums[last]){
-            take=1 + solve(ind+1,ind,nums,n,dp);
-        }
-        return dp[ind][last + 1] = max(take , nottake);
+int solve(int i , int previdx , int n , vector<int>&nums ,vector<vector<int>>&dp ){
+    if(i==n+1)  return 0;
+    if(dp[i][previdx]!=-1) return dp[i][previdx];
+    //take it 
+    int take =0;
+    if(previdx==0 || nums[previdx-1]<nums[i-1]){
+        take= 1+solve(i+1,i,n,nums,dp);
     }
+    int nottake= solve(i+1,previdx,n,nums,dp);
+    return dp[i][previdx]= max(take, nottake);
+}
     int lengthOfLIS(vector<int>& nums) {
-        int n = nums.size();
-        vector<vector<int>>dp(n,vector<int>(n+1,-1));
-        return solve(0,-1,nums,n,dp);
+        int n= nums.size();
+        vector<vector<int>>dp(n+1,vector<int>(n+1,-1));
+        return solve(1,0,n,nums,dp);
         
     }
 };
