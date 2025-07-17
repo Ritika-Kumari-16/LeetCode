@@ -1,56 +1,44 @@
 class Solution {
 public:
-    int nrow[4]={-1,0,+1,0};
-    int ncol[4]={0,+1,0,-1};
-    void dfs(int r,int c, vector<vector<int>>& vis,vector<vector<int>>& grid,int cnt){
-        vis[r][c] =1;
-        int n= grid.size();
-        int m=grid[0].size(); 
-        for(int i=0;i<4;i++){
-            int nr = r + nrow[i];
-            int nc = c + ncol[i];
-            if(nr>=0 && nr<n && nc>=0 && nc<m && grid[nr][nc]==1 && !vis[nr][nc]){
-                cnt++;
-                dfs(nr,nc,vis,grid,cnt);
-            }
-        }
+void dfs(int i , int j ,  vector<vector<int>>&board ,vector<vector<int>>&visited ){
+    visited[i][j]=1;
+    int drow[]={-1,0,0,1};
+    int dcol[]={0,-1,1,0};
+    for(int k=0;k<4;k++){
+        int nrow=i+drow[k];
+        int ncol=j+dcol[k];
+        if(nrow<0 || nrow>=board.size() || ncol<0 || ncol>=board[0].size() || visited[nrow][ncol] || board[nrow][ncol]==0) continue;
+        dfs(nrow,ncol,board,visited);
     }
-    int numEnclaves(vector<vector<int>>& grid) {
-        int n = grid.size();
-        int m = grid[0].size();
-        int c=0;
-        vector<vector<int>> vis(n,vector<int> (m,0));
-        //traverse rows
-        for(int j=0;j<m;j++){
-            //first row
-            if(!vis[0][j] && grid[0][j]==1){
-                dfs(0,j,vis,grid,c);
+}
+    int numEnclaves(vector<vector<int>>& board) {
+        int n = board.size();
+        int m = board[0].size();
+        vector<vector<int>> visited(n, vector<int>(m, 0));
+        for (int i = 0; i < m; i++) {
+            if (board[0][i] == 1 && !visited[0][i]) {
+                dfs(0, i, board, visited);
             }
-            //last row
-            if(!vis[n-1][j] && grid[n-1][j]==1){
-                dfs(n-1,j,vis,grid,c);
+            if (board[n - 1][i] == 1 && !visited[n - 1][i]) {
+                dfs(n - 1, i, board, visited);
             }
         }
-        //traverse columns
-        for(int j=0;j<n;j++){
-            //first col
-            if(!vis[j][0] && grid[j][0]==1){
-                dfs(j,0,vis,grid,c);
+        for (int j = 0; j < n; j++) {
+            if (board[j][0] == 1 && !visited[j][0]) {
+                dfs(j, 0, board, visited);
             }
-            //last col
-            if(!vis[j][m-1] && grid[j][m-1]==1){
-                dfs(j,m-1,vis,grid,c);
+            if (board[j][m - 1] == 1 && !visited[j][m - 1]) {
+                dfs(j, m - 1, board, visited);
             }
         }
-        int k=0;
-        //travese whole
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(grid[i][j]==1 && !vis[i][j]){
-                    k++;
+        int count=0;
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (!visited[i][j] && board[i][j] == 1) {
+                    count++;
                 }
             }
         }
-        return abs(k-c);
+        return count;
     }
 };
