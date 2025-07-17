@@ -1,43 +1,34 @@
 class Solution {
 public:
-    //using DFS for this problem can lead to inefficiency and stack overflow 
-    //issues due to deep recursion, especially in large matrices. A more 
-    //appropriate approach would be to use Breadth-First Search (BFS)
-
     vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
-        int m= mat.size(), n=mat[0].size();
-        vector<vector<bool>> vis(m, vector<bool> (n, false));
-
-        queue<pair<int, pair<int, int>>> q;
-        // {dist, {x, y}}
-        for(int i=0; i<m; i++){
-            for(int j=0; j<n; j++){
+        int n = mat.size();
+        int m= mat[0].size();
+        vector<vector<int>>visited(n,vector<int>(m,0));
+        queue<pair<int,pair<int,int>>>q;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
                 if(mat[i][j]==0){
-                    q.push({0, {i, j}});
-                    vis[i][j]=1;
-                } else vis[i][j]=0;
-            }
-        }
-
-        int dirx[]={1,0,-1,0};
-        int diry[]={0,-1,0,1};
-
-        while(!q.empty()){
-            auto pq = q.front(); q.pop();
-            
-            int dist=pq.first;
-            int x=pq.second.first;
-            int y=pq.second.second;
-
-            for(int i=0; i<4; i++){
-                int nx=x+dirx[i];
-                int ny=y+diry[i];
-                if(nx>=0 && nx<m && ny>=0 && ny<n && !vis[nx][ny]){
-                    q.push({dist+1, {nx, ny}});
-                    vis[nx][ny]=1;
-                    mat[nx][ny]=dist+1;
+                    q.push({0,{i,j}});
+                    visited[i][j]=1;
                 }
             }
+        }
+        int drow[]={-1,0,0,1};
+        int dcol[]={0,-1,1,0};
+        while(!q.empty()){
+            int dist=q.front().first;
+            int row= q.front().second.first;
+            int col=q.front().second.second;
+            q.pop();
+            for(int i=0;i<4;i++){
+                int nrow=row+drow[i];
+                int ncol=col+dcol[i];
+                if(nrow<0 || ncol<0 || nrow>=n || ncol>=m || visited[nrow][ncol] || mat[nrow][ncol]==0) continue;
+                q.push({dist+1,{nrow,ncol}});
+                visited[nrow][ncol]=1;
+                mat[nrow][ncol]=dist+1;
+            }
+
         }
         return mat;
     }
