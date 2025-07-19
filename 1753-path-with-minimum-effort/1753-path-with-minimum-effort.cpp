@@ -1,36 +1,34 @@
 class Solution {
 public:
-    int minimumEffortPath(vector<vector<int>>& heights) {
-        int n= heights.size();
-        int m= heights[0].size();
-        vector<vector<int>>distance(n,vector<int>(m,1e9));
-        distance[0][0]=0;
+    int minimumEffortPath(vector<vector<int>>& grid) {
+        int n = grid.size();
+        int m=grid[0].size();
+        vector<vector<int>>ans(n,vector<int>(m,INT_MAX));
+        ans[0][0]=0;
         priority_queue<pair<int,pair<int,int>>,vector<pair<int,pair<int,int>>>,greater<pair<int,pair<int,int>>>>pq;
+        int drow[]={-1,0,0,1};
+        int dcol[]={0,-1,1,0};
         pq.push({0,{0,0}});
-        int row[]={-1,0,0,1};
-        int col[]={0,-1,1,0};
         while(!pq.empty()){
-            auto it = pq.top();
-            int dist= it.first;
-            int r= it.second.first;
-            int c=it.second.second;
-            if(r==n-1 && c==m-1) return dist;
+            int dist=pq.top().first;
+            int row=pq.top().second.first;
+            int col=pq.top().second.second;
             pq.pop();
             for(int i=0;i<4;i++){
-                int newr=r+row[i];
-                int newc=c+col[i];
-
-                if(newr>=0 && newr<n && newc>=0 && newc<m){
-                    int diff= abs(heights[r][c]-heights[newr][newc]);
-                    int newdis=max(diff,dist);
-                    if(newdis < distance[newr][newc]){
-                        distance[newr][newc]=newdis;
-                        pq.push({newdis,{newr,newc}});
-                    }
+                int nrow=row+drow[i];
+                int ncol=col+dcol[i];
+                if(nrow<0 || nrow>=n || ncol<0 || ncol>=m){
+                    continue;
+                }
+                int val=max(ans[row][col] , abs(grid[row][col]-grid[nrow][ncol]));
+                if(ans[nrow][ncol]> val){
+                    ans[nrow][ncol]=val;
+                    pq.push({val,{nrow,ncol}});
                 }
             }
-
         }
-        return distance[n-1][m-1];
+
+        return ans[n-1][m-1];
+        
     }
 };
