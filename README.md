@@ -471,6 +471,7 @@
 | [2047-find-a-peak-element-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -878,6 +879,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2161-stock-price-fluctuation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2161-stock-price-fluctuation) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -1510,6 +1512,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -2012,6 +2015,7 @@
 | [0808-number-of-matching-subsequences](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -2197,6 +2201,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0214-shortest-palindrome) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Design
 |  |
