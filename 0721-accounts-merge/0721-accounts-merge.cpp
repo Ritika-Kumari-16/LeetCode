@@ -1,69 +1,93 @@
-class DisjointSet{
-    
+
+class DisjointSet {
+    vector<int>parent;
+    vector<int>rank;
+    vector<int>size;
 public:
-    vector<int>par,rank;
-    DisjointSet ( int n){
-        rank.resize(n,0);
-        par.resize(n);
-        for(int i=0;i<n;i++){
-            par[i]=i;
-        }
-    }
-    int findpar(int node){
-        if(par[node]==node){
-            return node;
-        }
-        return par[node]=findpar(par[node]);
-    }
-    void dounionSet( int u , int v){
-        int upu=findpar(u);
-        int upv=findpar(v);
-        if(upu==upv) return ;
-        if(rank[upu]<rank[upv]){
-            par[upu]=upv;
-        }
-        else if(rank[upu]>rank[upv]){
-            par[upv]=upu;
-        }
-        else{
-            par[upu]=upv;
-            rank[upv]++;
-        }
+    DisjointSet(int n) {
+     parent.resize(n+1,0);
+     rank.resize(n+1,0);
+     size.resize(n+1,1);
+     for(int i=0;i<=n;i++){
+        parent[i]=i;
+     }
     }
 
+    bool find(int u, int v) {
+        return findparent(u)==findparent(v);
+    }
+    int findparent(int u){
+        if(parent[u]==u) return u;
+        return parent[u]=findparent(parent[u]);
+    }
+
+    void unionByRank(int u, int v) {
+        int upu=findparent(u);
+        int upv=findparent(v);
+        if(upu==upv) return ;
+        if(rank[upu]<rank[upv]){
+            parent[upu]=upv;
+        }
+        else if(rank[upu]>rank[upv]){
+            parent[upv]=upu;
+        }
+        else{
+            parent[upv]=upu;
+            rank[upu]++;
+        }
+     
+    }
+
+    void unionBySize(int u, int v) {
+        int upu=findparent(u);
+        int upv=findparent(v);
+        if(upu==upv) return ;
+        if(size[upu]<size[upv]){
+            parent[upu]=upv;
+            size[upv]+=size[upu];
+        }
+        else if(size[upu]>size[upv]){
+            parent[upv]=upu;
+            size[upu]+=size[upv];
+        }
+        else {
+            parent[upv]=upu;
+            size[upu]+=size[upv];
+        }
+        
+       
+    }
 };
 class Solution {
 public:
     vector<vector<string>> accountsMerge(vector<vector<string>>& accounts) {
-        int n = accounts.size();
-        DisjointSet ds (n);
-        unordered_map<string,int>mailnode;
+        int n= accounts.size();
+        DisjointSet ds(n);
+        unordered_map<string ,int>mpp;
         for(int i=0;i<n;i++){
             for(int j=1;j<accounts[i].size();j++){
-                string mail= accounts[i][j];
-                if(mailnode.find(mail)==mailnode.end()){
-                    mailnode[mail]=i;
+                if(mpp.find(accounts[i][j])==mpp.end()){
+                    mpp[accounts[i][j]]=i;
                 }
                 else{
-                    ds.dounionSet(i,mailnode[mail]);
+                    ds.unionBySize(mpp[accounts[i][j]],i);
                 }
-
             }
         }
-        vector<vector<string>>mergemail(n);
-        for(auto it : mailnode){
-            string mail = it.first;
-            int node= ds.findpar(it.second);
-            mergemail[node].push_back(mail);
+        vector<vector<string>>emailsstored(n);
+        for(auto it:mpp){
+            int pnode= ds.findparent(it.second);
+            emailsstored[pnode].push_back(it.first);
         }
         vector<vector<string>>ans;
         for(int i=0;i<n;i++){
-            if(mergemail[i].size()==0) continue;
-            sort(mergemail[i].begin(),mergemail[i].end());
+            if(emailsstored[i].size()==0) continue;
             vector<string>temp;
             temp.push_back(accounts[i][0]);
-            for( auto it: mergemail[i]){
-                temp.push_back(it);
+            vector<string>t(emailsstored[i].begin(),emailsstored[i].end());
+            sort(t.begin(),t.end());
+            for(auto s :t){
+                temp.push_back(s);
             }
             ans.push_back(temp);
         }
