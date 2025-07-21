@@ -1,17 +1,17 @@
 class Solution {
 public:
     string makeFancyString(string s) {
-        string ans = "";
-        ans.push_back(s[0]);
-        int n = s.size(),cnt = 1;
-        for(int i=1;i<n;i++){
-            if(s[i] == ans.back()){
-                cnt++;
-                if(cnt < 3)ans.push_back(s[i]);
+        int n= s.size();
+        string ans;
+        for(int i=0;i<s.size();i++){
+            if( (i+2<n && s[i]==s[i+1] && s[i]==s[i+2])){
+                continue;
+            }
+            else if(n-i<2 ){
+                ans+=s[i];
             }
             else{
-                cnt = 1;
-                ans.push_back(s[i]);
+                ans+=s[i];
             }
         }
         return ans;
