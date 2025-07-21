@@ -1,60 +1,39 @@
 class Solution {
 public:
     int findTheCity(int n, vector<vector<int>>& edges, int distanceThreshold) {
-        vector<vector<int>>mat(n,vector<int>(n,-1));
-        for(auto it : edges){
-            int u= it[0];
-            int v=it[1];
-            int wt=it[2];
-            mat[u][v]=wt;
-            mat[v][u]=wt;
+        vector<vector<int>>adjmatrix(n,vector<int>(n,1e9));
+        for(auto it:edges){
+            adjmatrix[it[0]][it[1]]=it[2];
+            adjmatrix[it[1]][it[0]]=it[2];
+            
         }
         for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-                if(i==j){
-                    mat[i][j]=0;
-                    
-                }
-                if(mat[i][j]==-1){
-                    mat[i][j]=1e8;
-                }
-            }
+            adjmatrix[i][i]=0;
         }
-        for( int via=0; via<n;via++){
+        for(int viaroute=0;viaroute<n;viaroute++){
             for(int i=0;i<n;i++){
                 for(int j=0;j<n;j++){
-                    mat[i][j]=min(mat[i][j], mat[i][via]+mat[via][j]);
+                    if(adjmatrix[i][viaroute]<1e9 && adjmatrix[viaroute][j]<1e9){
+                        adjmatrix[i][j]=min(adjmatrix[i][j] , adjmatrix[i][viaroute]+adjmatrix[viaroute][j]);
+                    }
                 }
             }
         }
-        for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-                if(i==j){
-                    mat[i][j]=0;
-                    
-                }
-                if(mat[i][j]==1e8){
-                    mat[i][j]=-1;
-                }
-            }
-        }
-        int cityno=-1;
-        int cntcity = n+1;
+        int mincnt=n;
+        int city=-1;
         for(int i=0;i<n;i++){
             int cnt=0;
             for(int j=0;j<n;j++){
-                if(mat[i][j]<=distanceThreshold){
+                if(i==j) continue;
+                if(adjmatrix[i][j]<=distanceThreshold){
                     cnt++;
-
                 }
-
             }
-            if(cnt<=cntcity){
-                    cntcity=cnt;
-                    cityno=i;
+            if(cnt<=mincnt){
+                mincnt=cnt;
+                city=i;
             }
-        
         }
-        return cityno;
+        return city;
     }
 };
