@@ -450,6 +450,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1803-average-waiting-time) |
+| [1813-maximum-erasure-value](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1829-maximum-units-on-a-truck](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
@@ -872,6 +873,7 @@
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1813-maximum-erasure-value](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -2245,6 +2247,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1813-maximum-erasure-value](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
