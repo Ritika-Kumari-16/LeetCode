@@ -1175,6 +1175,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1829-maximum-units-on-a-truck](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -1502,6 +1503,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -1612,6 +1614,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2227-sum-of-subarray-ranges](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
