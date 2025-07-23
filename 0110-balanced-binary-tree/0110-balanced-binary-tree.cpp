@@ -11,18 +11,16 @@
  */
 class Solution {
 public:
-    int dfsheight(TreeNode* root){
-        if(root==NULL) return 0;
-        int left=dfsheight(root->left);
-        if(left==-1) return -1;
-        int right=dfsheight(root->right);
-        if(right==-1) return -1;
-        if(abs(left-right)>1) return -1;
-        return max(left,right)+1;
-    }
+int findbalanceornot(TreeNode* root ){
+    if(root==NULL) return 0;
+    int lh=findbalanceornot(root->left);
+    if(lh==-1) return -1;
+    int rh=findbalanceornot(root->right);
+    if(rh==-1) return -1;
+    if(abs(lh-rh)>1) return -1;
+    return 1+max(lh,rh);
+}
     bool isBalanced(TreeNode* root) {
-        return dfsheight(root)!=-1;
-
-        
+        return findbalanceornot(root)!=-1;
     }
 };
