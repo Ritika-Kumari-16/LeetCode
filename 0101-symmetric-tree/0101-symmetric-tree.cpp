@@ -11,18 +11,12 @@
  */
 class Solution {
 public:
-    bool issymmetrichelp(TreeNode* left , TreeNode* right){
-        if(left==NULL || right ==NULL){
-            return left==right;
-        }
-        if(left->val!=right->val){
-            return false;
-        }
-        return issymmetrichelp(left->left, right->right)&& issymmetrichelp(left->right , right->left);
-    }
+bool isSymm(TreeNode* left , TreeNode* right){
+    if(left==NULL || right ==NULL) return left==right;
+    if(left->val!=right->val) return false;
+    return isSymm(left->left,right->right) && isSymm(left->right,right->left);
+}
     bool isSymmetric(TreeNode* root) {
-        if(!root || issymmetrichelp(root->left , root->right)) return true;
-        return false;
-        
+        return root==NULL || isSymm(root->left,root->right);
     }
 };
