@@ -11,25 +11,22 @@
  */
 class Solution {
 public:
-    TreeNode* buildTreeinpre(vector<int>& preorder, int sp , int ep , vector<int>&inorder , int si , int ei , unordered_map<int,int>&mp){
-        if(sp > ep || si > ei) return NULL ;
-        TreeNode* root = new TreeNode(preorder[sp]);
-        int inroot = mp[preorder[sp]];
-        int numsleft=inroot-si;
-        root->left=buildTreeinpre(preorder, sp+1,sp+numsleft , inorder , si, inroot-1,mp);
-        root->right=buildTreeinpre(preorder, sp+numsleft+1, ep , inorder, inroot+1, ei, mp);
-        return root;
-
-    }
+TreeNode* build(vector<int>&preorder , int ps , int pe , vector<int>&inorder , int is , int ie,unordered_map<int,int>&mpp){
+    if(ps>pe || is>ie) return NULL;
+    TreeNode*node=new TreeNode(preorder[ps]);
+    int idx=mpp[node->val];
+    int leftel=idx-is;
+    node->left=build(preorder,ps+1,ps+leftel,inorder,is,idx-1,mpp);
+    node->right=build(preorder,ps+leftel+1,pe,inorder,idx+1,ie,mpp);
+    return node;
+}
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        if(preorder.size()!=inorder.size()) return NULL ;
-        unordered_map<int,int>mp;
+        if(preorder.size()==0) return NULL;
+        unordered_map<int,int>mpp;
         for(int i=0;i<inorder.size();i++){
-            mp[inorder[i]]=i;
+            mpp[inorder[i]]=i;
         }
-        TreeNode* root = buildTreeinpre(preorder , 0 , preorder.size()-1 , inorder , 0 , inorder.size()-1 , mp);
+        TreeNode* root=build(preorder,0,preorder.size()-1,inorder,0,inorder.size()-1,mpp);
         return root;
-
-        
     }
 };
