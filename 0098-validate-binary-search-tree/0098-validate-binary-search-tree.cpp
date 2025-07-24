@@ -12,13 +12,15 @@
 class Solution {
 public:
 typedef long long ll;
-    bool isvalid(TreeNode* root , ll mini , ll maxi){
-        if(root==nullptr) return true;
-        if(root->val >= maxi || root->val <= mini) return false;
-        return isvalid(root->left, mini ,root->val) && isvalid(root->right , root->val, maxi);
-    }
+bool valid(TreeNode* root, ll maxval , ll minval){
+    if(root==NULL) return true;
+    if(root->val>=maxval || root->val <=minval) return false;
+    return valid(root->left,root->val,minval) && valid(root->right,maxval,root->val);
+}
     bool isValidBST(TreeNode* root) {
-        if(root==nullptr) return true;
-        return isvalid(root,LLONG_MIN,LLONG_MAX);
+        ll maxval=LONG_MAX;
+        ll minval=LONG_MIN;
+        return valid(root,maxval,minval);
+
     }
 };
