@@ -1,71 +1,51 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
-class Solution {
+class BSTIterator {
 public:
+    stack<TreeNode*> st;
+    bool reverse;
 
-    // // Method 1 - using map -> TC = SC = O(N)
-    // bool solve(TreeNode* root, int k, unordered_set<int> &s){
-    //     if(!root){
-    //         return false;
-    //     }
-
-    //     if(s.find(k - root -> val) != s.end()){
-    //         return true;
-    //     }
-
-    //     s.insert(root -> val);
-
-    //     bool leftAns = solve(root -> left, k, s);
-    //     bool rightAns = solve(root -> right, k, s);
-
-    //     return leftAns || rightAns;
-    // }
-
-    // bool findTarget(TreeNode* root, int k) {
-    //     unordered_set<int> s;
-    //     return solve(root,k,s);
-    // }
-
-
-
-    // Method 2 - using 2 pointers -> TC = SC = O(N) -> SINCE IN BST Inorder is sorted to store that and apply 2 pointers
-    void inorder(TreeNode* root, vector<int> &v){
-        if(!root){
-            return;
-        }
-        
-        inorder(root -> left, v);
-
-        v.push_back(root -> val);
-
-        inorder(root -> right, v);
-
+    BSTIterator(TreeNode* root, bool isReverse) {
+        reverse = isReverse;
+        pushAll(root);
     }
 
-    bool findTarget(TreeNode* root, int k) {
-        vector<int> v;
-        inorder(root, v);
+    int next() {
+        TreeNode* node = st.top();
+        st.pop();
+        if (!reverse)
+            pushAll(node->right);
+        else
+            pushAll(node->left);
+        return node->val;
+    }
 
-        int s = 0, e = v.size()-1;
-        while(s < e){
-            if(v[s] + v[e] == k){
-                return true;
-            }
-            else if(v[s] + v[e] < k){
-                s++;
-            }
-            else{
-                e--;
-            }
+    bool hasNext() {
+        return !st.empty();
+    }
+
+private:
+    void pushAll(TreeNode* node) {
+        while (node) {
+            st.push(node);
+            node = reverse ? node->right : node->left;
+        }
+    }
+};
+
+class Solution {
+public:
+    bool findTarget(TreeNode* root, int k) {
+        if (!root) return false;
+
+        BSTIterator l(root, false); // in-order
+        BSTIterator r(root, true);  // reverse in-order
+
+        int i = l.next();
+        int j = r.next();
+
+        while (i < j) {
+            if (i + j == k) return true;
+            else if (i + j < k) i = l.next();
+            else j = r.next();
         }
         return false;
     }
