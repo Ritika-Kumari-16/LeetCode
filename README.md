@@ -596,6 +596,7 @@
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3795-zero-array-transformation-iv](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3795-zero-array-transformation-iv) |
 ## Two Pointers
 |  |
@@ -1123,6 +1124,7 @@
 | [0732-my-calendar-iii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0732-my-calendar-iii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Merge Sort
 |  |
 | ------- |
@@ -2134,6 +2136,7 @@
 | [3643-zero-array-transformation-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Topological Sort
 |  |
 | ------- |
@@ -2340,6 +2343,7 @@
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Monotonic Stack
 |  |
 | ------- |
