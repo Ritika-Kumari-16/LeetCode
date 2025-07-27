@@ -1,13 +1,15 @@
 class Solution {
 public:
-    string largestOddNumber(string num) {
-        for(int i = num.size()-1; i >= 0; i--)
-        {
-            // char to ascii conversion by subtraction 48 (ASCII of 0)
-            if((int)(num[i] - 48) % 2 != 0)
-            {
-                // here return i+1 as the last index is excluded while using the substr function
-                return num.substr(0, i+1);
+    string largestOddNumber(string nums) {
+        int n= nums.size();
+        int i=n-1;
+        while(!nums.empty() || i>0){
+            int val=nums[i]-'0';
+            if(val%2==0) {
+                nums.pop_back();
+                i--;}
+            else{
+                return nums;
             }
         }
         return "";
