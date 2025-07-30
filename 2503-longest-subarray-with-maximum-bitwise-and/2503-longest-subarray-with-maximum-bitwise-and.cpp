@@ -1,25 +1,35 @@
+#include <vector>
+#include <algorithm>
+
 class Solution {
 public:
-    int longestSubarray(vector<int>& nums) {
-        int n=nums.size();
-        int maxi=INT_MIN;
-        int max_count=1;
-        int count=0;
-        for(int i=0;i<n;i++){
-            if(nums[i]>maxi){
-                maxi=nums[i];
-                count=1;
-                max_count=1;
-            }
-            else if(nums[i]==maxi){
-                count++;
-                max_count=max(max_count,count);
-            }
-            else{
-                count=0;
-            }
-
+    int longestSubarray(std::vector<int>& nums) {
+        if (nums.empty()) {
+            return 0;
         }
-        return max_count;
+
+        // 1. Find the maximum value in the array.
+        int maxVal = 0;
+        for (int num : nums) {
+            if (num > maxVal) {
+                maxVal = num;
+            }
+        }
+        
+        // 2. Find the length of the longest subarray of maxVal.
+        int maxLen = 0;
+        int currentLen = 0;
+        
+        for (int num : nums) {
+            if (num == maxVal) {
+                currentLen++;
+            } else {
+                maxLen = std::max(maxLen, currentLen);
+                currentLen = 0;
+            }
+        }
+        
+        // 3. Final check for a trailing streak.
+        return std::max(maxLen, currentLen);
     }
 };
