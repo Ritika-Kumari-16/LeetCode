@@ -390,6 +390,7 @@
 | [0907-koko-eating-bananas](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0945-snakes-and-ladders](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0952-word-subsets) |
@@ -1057,6 +1058,7 @@
 | [0808-number-of-matching-subsequences](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0868-push-dominoes](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
@@ -1691,6 +1693,7 @@
 | [0338-counting-bits](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0342-power-of-four) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
