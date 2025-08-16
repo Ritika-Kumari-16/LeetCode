@@ -608,6 +608,7 @@
 | [3790-fruits-into-baskets-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3795-zero-array-transformation-iv](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3795-zero-array-transformation-iv) |
+| [3952-trionic-array-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3952-trionic-array-i) |
 ## Two Pointers
 |  |
 | ------- |
