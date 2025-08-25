@@ -359,6 +359,7 @@
 | [0493-reverse-pairs](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0506-relative-ranks) |
@@ -1288,6 +1289,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0258-add-digits) |
+| [0498-diagonal-traverse](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0874-backspace-string-compare) |
@@ -1757,6 +1759,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0419-battleships-in-a-board) |
+| [0498-diagonal-traverse](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0733-flood-fill) |
