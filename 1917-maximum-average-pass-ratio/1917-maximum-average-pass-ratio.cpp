@@ -1,29 +1,29 @@
 class Solution {
 public:
     double maxAverageRatio(vector<vector<int>>& classes, int extraStudents) {
-        auto profit = [](int pass, int total) {
-            return (double)(pass + 1) / (total + 1) - (double)pass / total;
-        };
-        
-        priority_queue<pair<double, int>> pq;
-        for (int i = 0; i < classes.size(); i++) {
-            pq.push({profit(classes[i][0], classes[i][1]), i});
+        priority_queue<pair<double,int>>pq;
+        for(int i=0;i<classes.size();i++){
+            double passratio= (double) (classes[i][0]+1)/(double )(classes[i][1]+1);
+            double initialpassratio = (double) classes[i][0]/(double )classes[i][1];
+            double diff= passratio- initialpassratio;
+            pq.push({diff , i});
         }
-        
-        for (int i = 0; i < extraStudents; i++) {
-            auto [gain, idx] = pq.top();
+        while(extraStudents--){
+            double maxdiff= pq.top().first;
+            int classno= pq.top().second;
             pq.pop();
-            classes[idx][0]++;
-            classes[idx][1]++;
-            pq.push({profit(classes[idx][0], classes[idx][1]), idx});
+            classes[classno][0]++;
+            classes[classno][1]++;
+            double initialpassratio = (double) classes[classno][0]/(double )classes[classno][1];
+            double passratio = (double) (classes[classno][0]+1)/(double ) (classes[classno][1]+1);
+            double diff= passratio - initialpassratio;
+            pq.push({diff,classno});
         }
-        
-        double sum = 0;
-        for (auto& c : classes) {
-            sum += (double)c[0] / c[1];
+        double maxavgratio=0;
+        for(int i=0;i<classes.size();i++){
+            maxavgratio+=(double ) classes[i][0]/(double )classes[i][1];
         }
-        
-        return sum / classes.size();
+
+        return (double ) maxavgratio/(double ) classes.size();
     }
 };
-auto init = atexit([]() { ofstream("display_runtime.txt") << "0"; });
