@@ -572,6 +572,7 @@
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -745,6 +746,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3321-type-of-triangle) |
@@ -1395,6 +1397,7 @@
 | [3201-distribute-candies-among-children-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
@@ -2391,6 +2394,7 @@
 | [2202-sum-of-k-mirror-numbers](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -2420,6 +2424,7 @@
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0223-rectangle-area) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Monotonic Queue
 |  |
