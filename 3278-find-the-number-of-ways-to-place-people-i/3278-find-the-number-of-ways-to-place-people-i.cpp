@@ -1,8 +1,8 @@
 class Solution {
 public:
 bool static comp (const vector<int>&A , const vector<int>&B){
-    if(A[0]==B[0]) return A[1]>B[1];
-    return A[0]<B[0];
+    if(A[0]==B[0]) return A[1]>=B[1];
+    return A[0]<=B[0];
 }
     int numberOfPairs(vector<vector<int>>& points) {
         int n= points.size();
