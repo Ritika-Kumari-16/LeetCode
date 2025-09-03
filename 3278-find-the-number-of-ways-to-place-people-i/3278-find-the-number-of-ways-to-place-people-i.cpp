@@ -1,43 +1,27 @@
 class Solution {
 public:
+bool static comp (const vector<int>&A , const vector<int>&B){
+    if(A[0]==B[0]) return A[1]>B[1];
+    return A[0]<B[0];
+}
     int numberOfPairs(vector<vector<int>>& points) {
-        int ans = 0;
-        int n = points.size();
-
-        for (int i = 0; i < n; i++) {
-            auto& pointA = points[i];
-            for (int j = 0; j < n; j++) {
-                vector<int> pointB = points[j];
-                if (i == j ||
-                    !(pointA[0] <= pointB[0] && pointA[1] >= pointB[1])) {
-                    continue;
+        int n= points.size();
+        sort(points.begin(),points.end(),comp);
+        int totalways=0;
+        for(int i=0;i<n;i++){
+            int x1= points[i][0];
+            int y1=points[i][1];
+            int maxy=-1;
+            for(int j=i+1;j<n;j++){
+                int x2= points[j][0];
+                int y2=points[j][1];
+                if(y1>=y2  && (maxy<y2 || maxy>y1) ){
+                    totalways++;
+                    maxy=max(maxy,y2);
                 }
-                if (n == 2) {
-                    ans++;
-                    continue;
-                }
-
-                bool illegal = false;
-                for (int k = 0; k < n; k++) {
-                    if (k == i || k == j) {
-                        continue;
-                    }
-
-                    auto& pointTmp = points[k];
-                    bool isXContained =
-                        pointTmp[0] >= pointA[0] && pointTmp[0] <= pointB[0];
-                    bool isYContained =
-                        pointTmp[1] <= pointA[1] && pointTmp[1] >= pointB[1];
-                    if (isXContained && isYContained) {
-                        illegal = true;
-                        break;
-                    }
-                }
-                if (!illegal) {
-                    ans++;
-                }
+                
             }
         }
-        return ans;
+        return totalways;
     }
 };
