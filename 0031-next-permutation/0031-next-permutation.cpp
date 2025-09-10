@@ -8,19 +8,18 @@ public:
                 brkpt=i;
                 break;
             }
-        } 
+        }
         if(brkpt==-1){
             reverse(nums.begin(),nums.end());
             return ;
         }
         for(int i=n-1;i>brkpt;i--){
             if(nums[i]>nums[brkpt]){
-                swap(nums[brkpt],nums[i]);
+                swap(nums[i],nums[brkpt]);
                 break;
             }
         }
-        reverse(nums.begin()+brkpt+1 , nums.end());
+        sort(nums.begin()+brkpt+1,nums.end());
         return ;
-        
     }
 };
