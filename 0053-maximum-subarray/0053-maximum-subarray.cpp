@@ -2,8 +2,7 @@ class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
         int psum=0;
-        int maxsum=-1;
-        int maxnsum=INT_MIN;
+        int maxsum=INT_MIN;
         int n = nums.size();
         int l=0;
         while(l<n){
@@ -13,13 +12,12 @@ public:
             }
             else{
                 psum=0;
-                maxnsum=max(maxnsum,nums[l]);
+                maxsum=max(maxsum,nums[l]);
             }
             l++;
             
         }
-        if(maxsum !=-1 ) return maxsum;
-        return maxnsum;
+        return maxsum;
     }
 };
 
