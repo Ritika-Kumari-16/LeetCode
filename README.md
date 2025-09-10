@@ -335,6 +335,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -693,6 +694,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -853,6 +855,7 @@
 | [0217-contains-duplicate](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -972,6 +975,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -1360,6 +1364,7 @@
 | [0231-power-of-two](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0282-expression-add-operators) |
 | [0342-power-of-four](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0342-power-of-four) |
@@ -1735,6 +1740,7 @@
 | [0201-bitwise-and-of-numbers-range](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0342-power-of-four) |
