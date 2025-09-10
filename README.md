@@ -321,6 +321,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -690,6 +691,7 @@
 | [0075-sort-colors](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0217-contains-duplicate) |
@@ -849,6 +851,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -1141,6 +1144,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -2227,6 +2231,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
