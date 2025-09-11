@@ -1,48 +1,48 @@
 class Solution {
 public:
+bool isvowel(char c){
+    if(c == 'a' || c == 'e' || c == 'i' ||c == 'o' ||c == 'u' || c == 'A' ||c == 'E' ||c == 'I' ||c == 'O' ||c == 'U'){
+        return true;
+    }
+    return false;
+}
     string sortVowels(string s) {
-        string check ="AEIOU";
-
-       int lower[26] = {0}; 
-        int upper[26] = {0};
+        vector<int>lowerfreq(26,0);
+        vector<int>upperfreq(26,0);
         for(int i=0;i<s.size();i++){
-             if(s[i]=='a' || s[i] =='e'|| s[i]=='i' || s[i]=='o' || s[i]=='u'){
-                lower[s[i]-'a']++;
-                 s[i]='*';
+            if(s[i]-65>=0 && s[i]-65<26){
+                upperfreq[s[i]-65]++;
             }
-            if(s[i]=='A' || s[i] =='E'|| s[i]=='I' || s[i]=='O' || s[i]=='U'){
-                upper[s[i]-'A']++;
-                s[i]='*';
+            else{
+                lowerfreq[s[i]-97]++;
             }
         }
-        string vowels ="";
+        vector<char>vowels;
         for(int i=0;i<26;i++){
-            char ch = i+'A';
-            while(upper[i]){
-                vowels+=ch;
-                upper[i]--;
+            if(isvowel(i+'A') && upperfreq[i]>0){
+                for(int j=0;j<upperfreq[i];j++){
+                    vowels.push_back(i+'A');
+                }
             }
         }
         for(int i=0;i<26;i++){
-            char ch = i+'a';
-            while(lower[i]){
-                vowels+=ch;
-                lower[i]--;
+            if(isvowel(i+'a') && lowerfreq[i]>0){
+                for(int j=0;j<lowerfreq[i];j++){
+                    vowels.push_back(i+'a');
+                }
             }
         }
+        string ans;
         int j=0;
-        int i =0;
-        while(j<vowels.size()&& i<s.size()){
-            if(s[i]=='*'){
-                s[i]= vowels[j];
+        for(int i=0;i<s.size();i++){
+            if(isvowel(s[i])){
+                ans.push_back(vowels[j]);
                 j++;
             }
-            i++;
+            else{
+                ans.push_back(s[i]);
+            }
         }
-        return s;
-
-
-        
-
+        return ans;
     }
 };
