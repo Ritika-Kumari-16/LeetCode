@@ -1,11 +1,11 @@
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
-        int m= matrix.size();
-        int n=matrix[0].size();
-        int left =0, top=0;
-        int bottom = m-1;
-        int right=n-1;
+        int n= matrix.size();
+        int m= matrix[0].size();
+        int top=0 , left=0;
+        int bottom= n-1;
+        int right=m-1;
         vector<int>ans;
         while(top<=bottom && left<=right){
             for(int i=left;i<=right;i++){
@@ -20,15 +20,14 @@ public:
                 for(int i=right;i>=left;i--){
                     ans.push_back(matrix[bottom][i]);
                 }
-                bottom--;
+            bottom--;
             }
             if(left<=right){
-                for(int i=bottom;i>=top;i--){
+                for(int i=bottom ;i>=top;i--){
                     ans.push_back(matrix[i][left]);
-
                 }
-                left++;
-        }
+            left++;
+            }
         }
         return ans;
     }
