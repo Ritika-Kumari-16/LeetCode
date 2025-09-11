@@ -1,32 +1,17 @@
-
 class Solution {
 public:
-  int maxProduct(vector<int>& nums) {
-       unordered_map<int,int>m;
-        __int128_t sum=1;
-          int maxi=INT_MIN;
-       int neg=INT_MIN;
-       for(int i=0;i<nums.size();i++){
-          sum=sum*nums[i];
-          if(sum>maxi){
-          maxi=sum;
-          }
-           if(sum==0){
-             sum=1;
-             neg=INT_MIN;
-           }
-           if(sum<0){
-            if(neg!=INT_MIN){
-                if(sum/neg>maxi){
-                  maxi=sum/neg;
-              }
-                 }
-                 if(neg<sum){
-                    neg=sum;
-                 }
-           }
-          m[sum]++;
-       }
-    return maxi;
+    int maxProduct(vector<int>& nums) {
+        int n= nums.size();
+        int maxpro=INT_MIN;
+        int prefixprod=1;
+        int suffixprod=1;
+        for(int i=0;i<n;i++){
+            prefixprod*=nums[i];
+            suffixprod*=nums[n-i-1];
+            maxpro=max(maxpro,max(prefixprod,suffixprod));
+            if(prefixprod==0) prefixprod=1;
+            if(suffixprod==0) suffixprod=1;
+        }
+        return maxpro;   
     }
 };
