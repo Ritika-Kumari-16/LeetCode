@@ -287,6 +287,7 @@
 | [0042-trapping-rain-water](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0054-spiral-matrix) |
@@ -1352,6 +1353,7 @@
 | [0012-integer-to-roman](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0066-plus-one) |
@@ -1781,6 +1783,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0063-unique-paths-ii) |
