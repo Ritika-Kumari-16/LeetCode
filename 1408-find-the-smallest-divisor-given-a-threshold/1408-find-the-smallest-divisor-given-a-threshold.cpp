@@ -1,22 +1,22 @@
 class Solution {
-    typedef long long ll;
 public:
-ll solve(vector<int>&nums , int val){
-    ll totalthrhold=0;
+long long getsum(vector<int>&nums , int divisor){
+    long long sum=0;
     for(int i=0;i<nums.size();i++){
-        totalthrhold+=ceil(double(nums[i])/double(val));
+        sum+= ceil(nums[i]/(double)divisor);
     }
-    return totalthrhold;
+    return sum;
 }
     int smallestDivisor(vector<int>& nums, int threshold) {
-        ll low=1;
-        ll high= *max_element(nums.begin(),nums.end());
+        int n= nums.size();
+        int low=1;
+        int high=*max_element(nums.begin(),nums.end());
         while(low<=high){
-            ll mid= low+(high-low)/2;
-            ll thrhold= solve(nums,mid);
-            if(thrhold <=threshold){
+            int mid= low+(high-low)/2;
+            long long sum=getsum(nums,mid);
+            if(sum<=threshold){
                 high=mid-1;
-            } 
+            }
             else{
                 low=mid+1;
             }
