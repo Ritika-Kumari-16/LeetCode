@@ -282,6 +282,7 @@
 | [0018-4sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0039-combination-sum) |
@@ -987,6 +988,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
