@@ -1,37 +1,35 @@
 class Solution {
-    typedef long long ll;
 public:
-    long long solve(vector<int>&bloomDay , int day , int k){
-        ll possbouq=0;
-        ll count=0;
-        for(int i=0;i<bloomDay.size();i++){
-            if(bloomDay[i]<=day){
-                count++;
-            }
-            else{
-                possbouq+=(count/k);
-                count=0;
-            }
+long long findbouquets(vector<int>&nums , int k , int day){
+    int count=0;
+    long long total=0;
+    for(int i=0;i<nums.size();i++){
+        if(nums[i]<=day){
+            count++;
         }
-        possbouq+=(count/k);
-        return possbouq;
+        else{
+            total+=count/k;
+            count=0;
+        }
     }
+    total+=count/k;
+    return total;
+}
     int minDays(vector<int>& bloomDay, int m, int k) {
-        long long  n = bloomDay.size();
-
-        if(1ll * m * 1ll* k > n) return -1;
-        ll low= *min_element(bloomDay.begin(),bloomDay.end());
-        ll high=*max_element(bloomDay.begin(),bloomDay.end());
+        int n= bloomDay.size();
+        if((long long)k*m > (long long)n) return -1;
+        int low=*min_element(bloomDay.begin(),bloomDay.end());
+        int high=*max_element(bloomDay.begin(),bloomDay.end());
+        int ans=-1;
         while(low<=high){
-            ll mid= low+(high-low)/2;
-            ll possbouq= solve(bloomDay,mid,k);
-            if(possbouq>=m){
+            int mid= low+(high-low)/2;
+            long long totalbouquets = findbouquets(bloomDay,k,mid);
+            if(totalbouquets>=m){
+                ans=mid;
                 high=mid-1;
             }
-            else{
-                low=mid+1;
-            }
+            else low=mid+1;
         }
-        return low;
+        return ans;
     }
 };
