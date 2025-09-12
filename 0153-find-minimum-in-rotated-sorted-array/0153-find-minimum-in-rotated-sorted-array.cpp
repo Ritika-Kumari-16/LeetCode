@@ -7,6 +7,7 @@ public:
         int minel=INT_MAX;
         while(low<=high){
             int mid= low+(high-low)/2;
+            if(nums[low]<=nums[high]) return min(minel,nums[low]);
             if(nums[low]<=nums[mid]){
                 minel=min(minel,nums[low]);
                 low=mid+1;
