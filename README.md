@@ -389,6 +389,7 @@
 | [0741-cherry-pickup](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0741-cherry-pickup) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0792-binary-search](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0808-number-of-matching-subsequences) |
@@ -998,6 +999,7 @@
 | [0729-my-calendar-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0732-my-calendar-iii) |
+| [0792-binary-search](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0808-number-of-matching-subsequences](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0907-koko-eating-bananas](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0907-koko-eating-bananas) |
