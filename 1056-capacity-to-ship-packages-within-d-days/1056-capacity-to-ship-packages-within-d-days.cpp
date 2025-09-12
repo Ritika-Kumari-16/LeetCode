@@ -1,26 +1,26 @@
 class Solution {
-    typedef long long ll;
-    ll solve(vector<int>&weights , int wgh){
-        ll totaldays=1;
-        ll weight=0;
-        for(int i=0;i<weights.size();i++){
-            if(weight+weights[i]<=wgh){
-                weight+=weights[i];
-            }
-            else{
-                weight=weights[i];
-                totaldays++;
-            }
-        }
-        return totaldays;
-    }
 public:
+int getdays(vector<int>&weights , int weight){
+    int totaldays=1;
+    int wt=0;
+    for(int i=0;i<weights.size();i++){
+        if(weights[i]+wt<=weight){
+            wt+=weights[i];
+        }
+        else{
+            totaldays++;
+            wt=weights[i];
+        }
+    }
+    return totaldays;
+}
     int shipWithinDays(vector<int>& weights, int days) {
-        ll low= *max_element(weights.begin(),weights.end());
-        ll high = accumulate(weights.begin(),weights.end(),0);
+        int n= weights.size();
+        int low=*max_element(weights.begin(),weights.end());
+        int high=accumulate(weights.begin(),weights.end(),0);
         while(low<=high){
-            ll mid= low+(high-low)/2;
-            ll totaldays= solve(weights,mid);
+            int mid=low+(high-low)/2;
+            int totaldays=getdays(weights, mid);
             if(totaldays<=days){
                 high=mid-1;
             }
