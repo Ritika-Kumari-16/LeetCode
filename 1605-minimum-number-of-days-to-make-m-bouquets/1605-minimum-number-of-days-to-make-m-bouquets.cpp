@@ -30,6 +30,6 @@ long long findbouquets(vector<int>&nums , int k , int day){
             }
             else low=mid+1;
         }
-        return ans;
+        return low;
     }
 };
