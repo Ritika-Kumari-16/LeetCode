@@ -419,6 +419,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
+| [1006-vowel-spellchecker](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -911,6 +912,7 @@
 | [0952-word-subsets](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1006-vowel-spellchecker](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1039-find-the-town-judge) |
@@ -1591,6 +1593,7 @@
 | [0952-word-subsets](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
+| [1006-vowel-spellchecker](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
