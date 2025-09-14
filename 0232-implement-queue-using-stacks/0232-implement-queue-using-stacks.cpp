@@ -1,48 +1,51 @@
 class MyQueue {
 public:
-stack<int>s1;
-stack<int>s2;
+stack<int>st1;
     MyQueue() {
         
     }
     
     void push(int x) {
-        s1.push(x);
-        
+        st1.push(x);
     }
     
     int pop() {
-        if(!s2.empty()){
-            int temp=s2.top();
-            s2.pop();
-            return temp;
+        int s=st1.size();
+        if(s==0) return -1;
+        stack<int>temp;
+        for(int i=0;i<s-1;i++){
+            temp.push(st1.top());
+            st1.pop();
         }
-        while(!s1.empty()){
-            s2.push(s1.top());
-            s1.pop();
+        int el=st1.top();
+        st1.pop();
+        for(int i=0;i<s-1;i++){
+            st1.push(temp.top());
+            temp.pop();
         }
-        int temp=s2.top();
-        s2.pop();
-        return temp;
-        
+        return el;
     }
     
     int peek() {
-        if(!s2.empty()){
-            int temp=s2.top();
-            return temp;
+        int s=st1.size();
+        if(s==0) return -1;
+        stack<int>temp;
+        for(int i=0;i<s-1;i++){
+            temp.push(st1.top());
+            st1.pop();
         }
-        while(!s1.empty()){
-            s2.push(s1.top());
-            s1.pop();
+        int el=st1.top();
+        temp.push(el);
+        st1.pop();
+        for(int i=0;i<s;i++){
+            st1.push(temp.top());
+            temp.pop();
         }
-        int temp=s2.top();
-        return temp;
-        
+        return el;
     }
     
     bool empty() {
-        return s2.empty() && s1.empty();
+        return st1.empty();
     }
 };
 
