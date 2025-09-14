@@ -1,52 +1,51 @@
+#include <stack>
+#include <climits>
+
 class MinStack {
-    stack<long>st;
-    int minimum;
 public:
+    std::stack<long long> st;
+    long long mini;
+
     MinStack() {
-        
+        mini = LLONG_MAX;
     }
     
     void push(int val) {
-        if(st.empty()){
+        if (st.empty()) {
             st.push(val);
-            minimum=val;
-        }
-        else{
-            if(val<minimum){
-                long num= 2L*val-minimum;
-                st.push(num);
-                minimum=val;
-            }
-            else{
+            mini = val;
+        } else {
+            if (val >= mini) {
                 st.push(val);
+            } else {
+                long long encodedVal = 2LL * val - mini;
+                st.push(encodedVal);
+                mini = val;
             }
         }
     }
     
     void pop() {
-        if(st.empty()) return ;
-        if(st.top()<minimum){
-            minimum= 2L*minimum-st.top();
-        }
+        long long topVal = st.top();
         st.pop();
+        
+        if (topVal >= mini) {
+            // mini remains the same
+        } else {
+            mini = 2LL * mini - topVal;
+        }
     }
     
     int top() {
-        if(st.empty()) return -1;
-        if(st.top()<minimum) return minimum;
-        return st.top();
+        long long topVal = st.top();
+        if (topVal >= mini) {
+            return (int)topVal;
+        } else {
+            return (int)mini;
+        }
     }
     
     int getMin() {
-        return minimum;
+        return (int)mini;
     }
 };
-
-/**
- * Your MinStack object will be instantiated and called as such:
- * MinStack* obj = new MinStack();
- * obj->push(val);
- * obj->pop();
- * int param_3 = obj->top();
- * int param_4 = obj->getMin();
- */
