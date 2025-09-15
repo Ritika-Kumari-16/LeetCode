@@ -8,7 +8,7 @@ public:
         int flips=0;
         while(r<n){
             if(nums[r]==0) flips++;
-            while(flips>k){
+            if(flips>k){
                 if(nums[l]==0) {
                     flips--;
                 }
