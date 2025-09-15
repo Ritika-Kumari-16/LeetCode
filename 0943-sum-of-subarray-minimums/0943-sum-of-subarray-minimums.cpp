@@ -1,45 +1,36 @@
 class Solution {
 public:
-    int mod=1e9+7;
-    void nseidx(vector<int>&arr , vector<int>&nse ){
-        int n = arr.size();
-        stack<int>st;
-        for(int i=n-1;i>=0;i--){
-            while(!st.empty() && arr[st.top()] >= arr[i]){
-                st.pop();
-            }
-            if(!st.empty()){
-                nse[i]=st.top();
-            }
-            st.push(i);
-        }
+void findpse(vector<int>& arr , vector<int>&pse){
+    stack<int>st;
+    for(int i=0;i<arr.size();i++){
+        while(!st.empty() && arr[st.top()]>arr[i]) st.pop();
+        if(!st.empty()) pse[i]=st.top();
+        st.push(i);
     }
-    void pseidx(vector<int>&arr , vector<int>&pse ){
-        int n = arr.size();
-        stack<int>st;
-        for(int i=0;i<n;i++){
-            while(!st.empty() && arr[st.top()] >arr[i]){
-                st.pop();
-            }
-            if(!st.empty()){
-                pse[i]=st.top();
-            }
-            st.push(i);
-        }
+}
+void findnse(vector<int>&arr , vector<int>&nse){
+    stack<int>st;
+    for(int i=arr.size()-1;i>=0;i--){
+        while(!st.empty() && arr[st.top()]>=arr[i]) st.pop();
+        if(!st.empty()) nse[i]=st.top();
+        st.push(i);
     }
+}
+int mod=1e9+7;
     int sumSubarrayMins(vector<int>& arr) {
-        int n = arr.size();
-        int total=0;
-        vector<int>nse(n,n);
+        int n= arr.size();
         vector<int>pse(n,-1);
-        nseidx(arr,nse);
-        pseidx(arr,pse);
+        findpse(arr,pse);
+        vector<int>nse(n,n);
+        findnse(arr,nse);
+        long long totalsum=0;
         for(int i=0;i<n;i++){
-            int el= arr[i];
+            int el=arr[i];
             int left=i-pse[i];
-            int right= nse[i]-i;
-            total=(total+(left*right*1ll * el)%mod)%mod;
+            int right=nse[i]-i;
+            long long totalsubarray= (1LL*left*right)%mod;
+            totalsum=(totalsum+ (1LL* totalsubarray*el)%mod)%mod;
         }
-        return total;
+        return totalsum;
     }
 };
