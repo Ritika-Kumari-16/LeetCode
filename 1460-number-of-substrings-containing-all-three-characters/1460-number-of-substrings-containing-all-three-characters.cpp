@@ -1,14 +1,16 @@
 class Solution {
 public:
     int numberOfSubstrings(string s) {
-        int n=s.size();
-        int l=0,r=0,count=0;
-        vector<int>mpp(3,0);
+        int count=0;
+        int n= s.size();
+        int l=0,r=0;
+        unordered_map<char,int>freq;
         while(r<n){
-            mpp[s[r]-'a']++;
-            while(mpp[0]>0 && mpp[1]>0 && mpp[2]>0){
-                count+=n-r;
-                mpp[s[l]-'a']--;
+            freq[s[r]]++;
+            while(freq.size()==3){
+                count+=(n-r);
+                freq[s[l]]--;
+                if(freq[s[l]]==0) freq.erase(s[l]);
                 l++;
             }
             r++;
