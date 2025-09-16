@@ -2,29 +2,35 @@ class Solution {
 public:
     string minWindow(string s, string t) {
         unordered_map<char,int>mpp;
-        int n = s.size();
-        int m= t.size();
-        for(auto it :t){
-            mpp[it]++;
+        unordered_map<char,int>mpps;
+        int n=s.size();
+        int m=t.size();
+        for(int i=0;i<m;i++){
+            mpp[t[i]]++;
         }
-        int l=0 , r=0;
-        int count=0;
-        int idx=-1;
+        int x=mpp.size();
         int minlen=INT_MAX;
+        int idx;
+        int k=0;
+        int l=0,r=0;
         while(r<n){
-            if(mpp[s[r]]>0) count++;
-            mpp[s[r]]--;
-            while(count==m){
-                if((r-l+1) < minlen){
-                    minlen= r-l+1;
+            mpps[s[r]]++;
+            if(mpp.find(s[r])!=mpp.end() && mpp[s[r]]>=mpps[s[r]]){
+                k++;
+            }
+            while(k==m){
+                if(minlen>(r-l+1)){
+                    minlen=r-l+1;
                     idx=l;
                 }
-                mpp[s[l]]++;
-                if(mpp[s[l]]>0) count --;
+                mpps[s[l]]--;
+                if(mpp.find(s[l])!=mpp.end() && mpps[s[l]]<mpp[s[l]]){
+                    k--;
+                }
                 l++;
             }
             r++;
         }
-        return idx==-1? "" :s.substr(idx,minlen);
+        return minlen==INT_MAX? "" : s.substr(idx,minlen);
     }
 };
