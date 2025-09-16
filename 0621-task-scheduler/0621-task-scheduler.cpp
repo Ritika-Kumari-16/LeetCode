@@ -1,20 +1,20 @@
 class Solution {
 public:
     int leastInterval(vector<char>& tasks, int n) {
-        vector<int>temp(26,0);
+        int t=tasks.size();
         int maxfreq=0;
-        int maxfreqcnt=0;
-        for(int i=0;i<tasks.size();i++){
-            temp[tasks[i]-'A']++;
-            if(maxfreq<temp[tasks[i]-'A']){
-                maxfreq=temp[tasks[i]-'A'];
+        int maxfreqcount=0;
+        vector<int>freq(26,0);
+        for(auto it:tasks){
+            freq[it-'A']++;
+            if(maxfreq<freq[it-'A']){
+                maxfreq=freq[it-'A'];
             }
         }
         for(int i=0;i<26;i++){
-            if(temp[i]==maxfreq) maxfreqcnt++;
+            if(freq[i]==maxfreq) maxfreqcount++;
         }
-        int time = (maxfreq-1)*(n+1)+maxfreqcnt;
-        int t= tasks.size();
-        return max(time,t);
+        int miniintervals= (maxfreq-1)*(n+1)+maxfreqcount;
+        return max(miniintervals,t);
     }
 };
