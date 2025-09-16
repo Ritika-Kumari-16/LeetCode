@@ -1,19 +1,21 @@
 class Solution {
 public:
-    int longestNiceSubarray(vector<int>& nums) { 
+    int longestNiceSubarray(vector<int>& nums) {
+        int temp=0;
+        int l=0;
+        int r=0;
         int maxlen=1;
-        int num=0;
         int n= nums.size();
-        int l=0,r=0;
         while(r<n){
-            while(num & nums[r] !=0){
-                num^=nums[l];
+            while((temp & nums[r] )!= 0){
+                temp=(temp^nums[l]);
                 l++;
             }
             maxlen=max(maxlen,r-l+1);
-            num|=nums[r];
+            temp=(temp| nums[r]);
             r++;
         }
         return maxlen;
+        
     }
 };
