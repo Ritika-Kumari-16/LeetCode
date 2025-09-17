@@ -1,35 +1,32 @@
 class MedianFinder {
-    priority_queue<int>maxheap;
-    priority_queue<int,vector<int>,greater<int>>minheap;
 public:
+priority_queue<int>leftheap;
+priority_queue<int,vector<int>,greater<int>>rightheap;
     MedianFinder() {
     }
     
     void addNum(int num) {
-        if(maxheap.empty() || num<maxheap.top()){
-            maxheap.push(num);
+        if(leftheap.empty() || leftheap.top()>=num){
+            leftheap.push(num);
+            if(leftheap.size()>rightheap.size()+1){
+                rightheap.push(leftheap.top());
+                leftheap.pop();
+            }
         }
-        else
-            minheap.push(num);
-        if(maxheap.size() > minheap.size()+1){
-            minheap.push(maxheap.top());
-            maxheap.pop();
-        }
-        else if(minheap.size()>maxheap.size()){
-            maxheap.push(minheap.top());
-            minheap.pop();
+        else{
+            rightheap.push(num);
+            if(rightheap.size()>leftheap.size()){
+                leftheap.push(rightheap.top());
+                rightheap.pop();
+            }
         }
     }
     
     double findMedian() {
-        double median=0;
-        if(minheap.size()==maxheap.size()){
-            median= (double)(minheap.top()+maxheap.top())/2.0;
+        if(leftheap.size()==rightheap.size()){
+            return (double)(leftheap.top()+rightheap.top())/2.0;
         }
-        else{
-            median=(double) maxheap.top();
-        }
-        return median;
+        return (double)leftheap.top();
     }
 };
 
