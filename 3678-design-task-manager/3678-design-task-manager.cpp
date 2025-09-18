@@ -36,6 +36,7 @@ set<pair<int,pair<int,int>>>ptu;
     }
     
     int execTop() {
+        if(ptu.empty()) return -1;
         int userid= ptu.rbegin()->second.second;
         int pri= ptu.rbegin()->first;
         int taskid=ptu.rbegin()->second.first;
