@@ -1,24 +1,24 @@
 class Solution {
 public:
     bool checkValidString(string s) {
-        int mini=0;
-        int maxi=0;
-        for(int i=0;i<s.size();i++){
+        int n= s.size();
+        int maxcount=0, mincount=0;
+        for(int i=0;i<n;i++){
             if(s[i]=='('){
-                mini++;
-                maxi++;
+                maxcount++;
+                mincount++;
             }
             else if(s[i]==')'){
-                mini--;
-                maxi--;
+                maxcount--;
+                mincount--;
             }
             else{
-                mini--;
-                maxi++;
+                maxcount++;
+                mincount--;
             }
-            if(mini<0) mini=0;
-            if(maxi<0) return false;
+            if(maxcount<0) return false;
+            if(mincount<0) mincount=0;
         }
-        return mini==0;
+        return mincount==0;
     }
 };
