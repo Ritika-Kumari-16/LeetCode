@@ -15,21 +15,13 @@ vector<vector<int>>spsheet;
     
     void setCell(string cell, int value) {
         int colno= cell[0]-'A';
-        int rowno=0;
-        for(int i=1;i<cell.size();i++){
-            int val= cell[i]-'0';
-            rowno=(rowno*10)+val;
-        }
+        int rowno= stoi(cell.substr(1));
         spsheet[rowno-1][colno]=value;
     }
     
     void resetCell(string cell) {
         int colno= cell[0]-'A';
-        int rowno=0;
-        for(int i=1;i<cell.size();i++){
-            int val= cell[i]-'0';
-            rowno=(rowno*10)+val;
-        }
+        int rowno= stoi(cell.substr(1));
         spsheet[rowno-1][colno]=0;
     }
     
@@ -53,11 +45,7 @@ vector<vector<int>>spsheet;
         }
         else{
             int colno= cell1[0]-'A';
-            int rowno=0;
-            for(int i=1;i<cell1.size();i++){
-                int val= cell1[i]-'0';
-                rowno=(rowno*10)+val;
-            }
+            int rowno= stoi(cell1.substr(1));
             val1=spsheet[rowno-1][colno];
         }
         if(isStringDigit(cell2)){
@@ -65,11 +53,7 @@ vector<vector<int>>spsheet;
         }
         else{
             int colno= cell2[0]-'A';
-            int rowno=0;
-            for(int i=1;i<cell2.size();i++){
-                int val= cell2[i]-'0';
-                rowno=(rowno*10)+val;
-            }
+            int rowno= stoi(cell2.substr(1));
             val2=spsheet[rowno-1][colno];
         }
         return val1+val2;
