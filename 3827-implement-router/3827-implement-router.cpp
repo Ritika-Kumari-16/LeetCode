@@ -1,68 +1,54 @@
 class Router {
-private:
-    int size;
-    unordered_map<long long, vector<int>> packets;
-    unordered_map<int, vector<int>> counts;
-    queue<long long> q;
-
-    long long encode(int source, int destination, int timestamp) {
-        return ((long long)source << 40) | ((long long)destination << 20) | timestamp;
-    }
-
-    int lowerBound(vector<int>& list, int target) {
-        return (int)(lower_bound(list.begin(), list.end(), target) - list.begin());
-    }
-
-    int upperBound(vector<int>& list, int target) {
-        return (int)(upper_bound(list.begin(), list.end(), target) - list.begin());
-    }
-
 public:
+deque<vector<int>>q;
+int maxsize;
+unordered_map<int,vector<int>>mpp;
+set<vector<int>>st;
     Router(int memoryLimit) {
-        size = memoryLimit;
+        maxsize=memoryLimit;
     }
-
+    
     bool addPacket(int source, int destination, int timestamp) {
-        long long key = encode(source, destination, timestamp);
-
-        if (packets.find(key) != packets.end())
-            return false;
-
-        if ((int)packets.size() >= size)
-            forwardPacket();
-
-        packets[key] = {source, destination, timestamp};
-        q.push(key);
-        counts[destination].push_back(timestamp);
-
+        if(st.find({source,destination,timestamp})!=st.end()) return false;
+        if(q.size()==maxsize){
+            auto it=q.front();
+            q.pop_front();
+            st.erase({it[0],it[1],it[2]});
+            auto &vec= mpp[it[1]];
+            if(!vec.empty() && vec.front()==it[2]){
+                vec.erase(vec.begin());
+            }
+        }
+        st.insert({source,destination, timestamp});
+        q.push_back({source,destination,timestamp});
+        mpp[destination].push_back(timestamp);
         return true;
     }
-
+    
     vector<int> forwardPacket() {
-        if (packets.empty()) return {};
+        if(q.size()==0) return {};
+        auto it=q.front();
+        q.pop_front();
+        st.erase({it[0],it[1],it[2]});
+        auto &vec = mpp[it[1]];
+        if (!vec.empty() && vec.front() == it[2]) {
+            vec.erase(vec.begin()); // O(1)
+        }
 
-        long long key = q.front();
-        q.pop();
-
-        vector<int> packet = packets[key];
-        packets.erase(key);
-
-        int dest = packet[1];
-        counts[dest].erase(counts[dest].begin());  // remove earliest timestamp
-
-        return packet;
+        return {it[0],it[1],it[2]};
     }
-
+    
     int getCount(int destination, int startTime, int endTime) {
-        auto it = counts.find(destination);
-        if (it == counts.end() || it->second.empty())
-            return 0;
-
-        vector<int>& list = it->second;
-
-        int left = lowerBound(list, startTime);
-        int right = upperBound(list, endTime);
-
-        return right - left;
+        int lb= lower_bound(mpp[destination].begin(),mpp[destination].end(),startTime)-mpp[destination].begin();
+        int ub=upper_bound(mpp[destination].begin(),mpp[destination].end(),endTime)-mpp[destination].begin();
+        return ub-lb;
     }
 };
+
+/**
+ * Your Router object will be instantiated and called as such:
+ * Router* obj = new Router(memoryLimit);
+ * bool param_1 = obj->addPacket(source,destination,timestamp);
+ * vector<int> param_2 = obj->forwardPacket();
+ * int param_3 = obj->getCount(destination,startTime,endTime);
+ */
