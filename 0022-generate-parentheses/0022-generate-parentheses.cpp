@@ -1,33 +1,26 @@
 class Solution {
 public:
-    void solve ( int o , int c ,string &temp , vector<string>&result , int n){
-        if(o == n && c== n){
-            result.push_back(temp);
-            return;
-        }
-        // take
-        if(o<n){
-            temp+="(";
-            o++;
-            solve(o,c,temp,result,n);
-            temp.pop_back();
-            o--;
-        }
-        if(c<o){
-            temp+=")";
-            c++;
-            solve(o,c,temp,result,n);
-            temp.pop_back();
-            c--;
-        }
+void generate(int o , int c, int n, string &temp , vector<string>&ans){
+    if(temp.size()== 2*n && o==c){
+        ans.push_back(temp);
+        return ;
     }
+    if(o<n){
+        temp+='(';
+        generate(o+1,c,n,temp,ans);
+        temp.pop_back();
+    }
+    if(c<o){
+        temp+=')';
+        generate(o,c+1,n,temp,ans);
+        temp.pop_back();
+    }
+}
     vector<string> generateParenthesis(int n) {
-        vector<string>result;
-        string temp="";
-        int c=0;
-        int o=0;
-        solve(o,c,temp,result,n);
-        return result;
+        vector<string>ans;
+        string temp;
+        generate(0,0,n,temp,ans);
+        return ans;
         
     }
 };
