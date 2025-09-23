@@ -1,35 +1,36 @@
 class Solution {
 public:
-void solve( int col ,vector<string>&board , vector<vector<string>>&ans , int n,vector<int>&rowwise , vector<int>&diagonalleft , vector<int>&diagonalright){
-    if(col== n){
+void generateboard(int col , int n ,vector<string>&board ,vector<vector<string>>&ans
+, vector<int>lowerdiag, vector<int>&upperdiag ,vector<int>&rows){
+    if(col==n){
         ans.push_back(board);
-        return;
+        return ;
     }
-    for(int i=0;i<n;i++){
-        if(rowwise[i]== 0 && diagonalright[i+col]==0 && diagonalleft[(n-1)+(col-i)]==0){
-            board[i][col]='Q';
-            rowwise[i]=1;
-            diagonalright[i+col]=1;
-            diagonalleft[(n-1)+(col-i)]=1;
-            solve(col+1,board,ans,n,rowwise , diagonalleft, diagonalright);
-            board[i][col]='.';
-            rowwise[i]= 0;
-            diagonalright[i+col]=0;
-            diagonalleft[(n-1)+(col-i)]=0;
+    for(int row=0;row<n;row++){
+        if(rows[row]==-1 && lowerdiag[row+col]==-1 && upperdiag[(n-1)+(col-row)]==-1){
+            board[row][col]='Q';
+            rows[row]=1;
+            lowerdiag[row+col]=1;
+            upperdiag[(n-1)+(col-row)]=1;
+            generateboard(col+1,n,board,ans,lowerdiag,upperdiag,rows);
+            board[row][col]='.';
+            rows[row]=-1;
+            lowerdiag[row+col]=-1;
+            upperdiag[(n-1)+(col-row)]=-1;
         }
     }
 }
     vector<vector<string>> solveNQueens(int n) {
+        vector<int>lowerdiag(2*n-1,-1);
+        vector<int>upperdiag(2*n-1,-1);
+        vector<int>rows(n,-1);
         vector<vector<string>>ans;
         vector<string>board;
-        string s(n,'.');
-        vector<int>rowwise(n,0);
-        vector<int>diagonalright(2*n-1,0);
-        vector<int>diagonalleft(2*n-1,0);
+        string temp(n,'.');
         for(int i=0;i<n;i++){
-            board.push_back(s);
+            board.push_back(temp);
         }
-        solve(0,board,ans,n,rowwise,diagonalleft,diagonalright);
+        generateboard(0,n,board,ans,lowerdiag,upperdiag,rows);
         return ans;
     }
 };
