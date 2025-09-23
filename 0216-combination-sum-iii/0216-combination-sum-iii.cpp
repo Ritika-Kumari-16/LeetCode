@@ -1,23 +1,23 @@
 class Solution {
 public:
-void solve(int i ,int j,int sum, int k , int n , vector<int>&temp , vector<vector<int>>&ans){
-    if(i==k){
-        if(sum==n) {
-            ans.push_back(temp);
-        }
-        return;
+void generatecomb(int i , int target , int k , vector<int>&temp , vector<vector<int>>&ans){
+    if(temp.size()>k) return;
+    if(target==0 && temp.size()==k){
+        ans.push_back(temp);
+        return ;
     }
-    for(int num=j;num<=9;num++){
-        if(sum+num>n) break;
-        temp.push_back(num);
-        solve(i+1,num+1,sum+num,k,n,temp,ans);
+    for(int j=i;j<=9;j++){
+        if(j>target) break;
+        temp.push_back(j);
+        generatecomb(j+1,target-j,k,temp,ans);
         temp.pop_back();
     }
+
 }
     vector<vector<int>> combinationSum3(int k, int n) {
         vector<vector<int>>ans;
         vector<int>temp;
-        solve(0,1,0,k,n,temp,ans);
+        generatecomb(1,n,k,temp,ans);
         return ans;
     }
 };
