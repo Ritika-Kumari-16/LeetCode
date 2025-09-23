@@ -1,26 +1,29 @@
 class Solution {
 public:
-int mod = 1e9+7;
-    long long  pow_(long long x , long long n){
-        long long result=1;
-        while(n>0){
-            if(n%2==0){
+int mod=1e9+7;
+long long findpow(long long x, long long n) {
+        long long m=n;
+        if(n<0){
+            m=m*-1;
+        }
+        long long ans=1;
+        while(m>0){
+            if(m%2==0){
                 x=(x*x)%mod;
-                n=n/2;
+                m=m/2;
             }
             else{
-                result=(result*x)%mod;
-                n=n-1;
+                ans=(ans*x)%mod;
+                m=m-1;
             }
         }
-        return result;
+        if(n<0) return (long long) 1/ ans;
+        return ans;
     }
     int countGoodNumbers(long long n) {
-        long long even= n/2+n%2;
-        long long odd= n/2;
-         long long res = (pow_(5, even) * pow_(4, odd)) % mod;
-        return (int) res;
-        
-        
+        long long oddidx=n/2;
+        long long evenidx= oddidx+(n%2);
+        long long ans= (findpow(5,evenidx )* findpow(4,oddidx))%mod;
+        return (int)ans;
     }
 };
