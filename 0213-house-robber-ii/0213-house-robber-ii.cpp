@@ -3,31 +3,29 @@ public:
     int rob(vector<int>& nums) {
         int m= nums.size();
         if(m==1) return nums[0];
-        vector<int>dp1(m-1,-1);
-        vector<int>dp2(m-1,-1);
         vector<int>nums1(nums.begin(),nums.end()-1);
-        vector<int>nums2(nums.begin()+1, nums.end());
-        int n= nums1.size();
-        for(int i=n-1;i>=0;i--){
+        vector<int>nums2(nums.begin()+1,nums.end());
+        vector<int>dp1(m-1,0);
+        vector<int>dp2(m-1,0);
+        dp1[m-2]=nums1[m-2];
+        dp2[m-2]=nums2[m-2];
+        for(int i=m-3;i>=0;i--){
+            int nottake= dp1[i+1];
             int take=nums1[i];
-            if(i+2<n){
+            if(i+2<m-1){
                 take+=dp1[i+2];
             }
-            int nottake=0;
-            if(i+1<n) nottake+=dp1[i+1];
             dp1[i]=max(take,nottake);
         }
-        for(int i=n-1;i>=0;i--){
+        for(int i=m-3;i>=0;i--){
+            int nottake= dp2[i+1];
             int take=nums2[i];
-            if(i+2<n){
+            if(i+2<m-1){
                 take+=dp2[i+2];
             }
-            int nottake=0;
-            if(i+1<n) nottake+=dp2[i+1];
             dp2[i]=max(take,nottake);
         }
         return max(dp1[0],dp2[0]);
-        
     }
 };
 
