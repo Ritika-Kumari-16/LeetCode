@@ -2,15 +2,14 @@ class Solution {
 public:
     int rob(vector<int>& nums) {
         int n= nums.size();
-        if(n==1) return nums[0];
         vector<int>dp(n,0);
-        for(int i=n-1;i>=0;i--){
+        dp[n-1]=nums[n-1];
+        for(int i=n-2;i>=0;i--){
+            int nottake= dp[i+1];
             int take=nums[i];
             if(i+2<n){
                 take+=dp[i+2];
             }
-            int nottake=0;
-            if(i+1<n) nottake+=dp[i+1];
             dp[i]=max(take,nottake);
         }
         return dp[0];
