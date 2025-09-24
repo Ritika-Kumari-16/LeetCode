@@ -1,34 +1,32 @@
 class Solution {
 public:
-    void helper(int i, const string &num,
-                long long target, long long eval, long long last,
-                string temp, vector<string>& ans) {
-        if (i == (int)num.size()) {
-            if (eval == target) ans.push_back(temp);
-            return;
+void helper(int i , string &num , int target, long eval , long residual , string temp, vector<string>&ans){
+    if(i==num.size()){
+        if(eval==target){
+            ans.push_back(temp);
         }
-
-        long long val = 0;
-        string s;
-        for (int j = i; j < (int)num.size(); ++j) {
-            if (j > i && num[i] == '0') break; // don't allow numbers with leading zeros
-            s.push_back(num[j]);
-            val = val * 10 + (num[j] - '0');
-
-            if (i == 0) {
-                // first number (no operator)
-                helper(j + 1, num, target, val, val, s, ans);
-            } else {
-                helper(j + 1, num, target, eval + val, val, temp + "+" + s, ans);
-                helper(j + 1, num, target, eval - val, -val, temp + "-" + s, ans);
-                helper(j + 1, num, target, (eval - last) + last * val, last * val, temp + "*" + s, ans);
-            }
+        return;
+    }
+    string s;
+    long val=0;
+    for(int j=i;j<num.size();j++){
+        if(j>i && num[i]=='0') return;
+        s+=num[j];
+        val=val*10+(num[j]-'0');
+        if(i==0){
+            helper(j+1,num,target,val,val,s,ans);
+        }
+        else{
+            helper(j+1,num,target,eval+val,val,temp+'+'+s , ans);
+            helper(j+1,num,target,eval-val,-val,temp+'-'+s , ans);
+            helper(j+1,num,target,(eval-residual)+(residual*val),residual*val,temp+'*'+s , ans);
         }
     }
-
+}
     vector<string> addOperators(string num, int target) {
-        vector<string> ans;
-        helper(0, num, (long long)target, 0LL, 0LL, "", ans);
+        vector<string>ans;
+        string temp="";
+        helper(0,num,target,0,0,temp,ans);
         return ans;
     }
 };
