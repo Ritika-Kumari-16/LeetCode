@@ -1,56 +1,34 @@
-class Solution
-{
-    public:
-        void recursiveCall(int i, string sumPath, long sum, long prev, string num, int target, vector<string> &result)
-        {
-           	// If we have reached the end of 'num'
-            if (i == num.size())
-            {
-                if (sum == target)
-                {
-                   	// If the target is achieved, add the path to the result
-                    result.push_back(sumPath);
-                }
-                return;
-            }
-
-            for (int j = i; j < num.size(); j++)
-            {
-                if (j > i && num[i] == '0')
-                {
-                   	// Avoid leading zeros in the number
-                    break;
-                }
-
-                long number = stol(num.substr(i, j - i + 1));
-               	// Convert the substring to a long number
-                string tempPath = num.substr(i, j - i + 1);
-               	// Temporary substring representing the path we have traversed so far
-
-                if (i == 0)
-                {
-                   	// If we are on the first index of 'num', start a new path
-                    recursiveCall(j + 1, tempPath, number, number, num, target, result);
-                }
-                else
-                {
-                   	// Addition operation
-                    recursiveCall(j + 1, sumPath + '+' + tempPath, sum + number, number, num, target, result);
-                   	// Subtraction operation
-                    recursiveCall(j + 1, sumPath + '-' + tempPath, sum - number, -number, num, target, result);
-                   	// Multiplication operation
-                    recursiveCall(j + 1, sumPath + '*' + tempPath, sum - prev + (prev *number), prev *number, num, target, result);
-                   	// While doing the multiplication operation, we remove the previous operation and update it with the multiplication operation
-                   	// This is done to follow the BODMAS rules for correct precedence
-                }
-            }
+class Solution {
+public:
+    void helper(int i, const string &num,
+                long long target, long long eval, long long last,
+                string temp, vector<string>& ans) {
+        if (i == (int)num.size()) {
+            if (eval == target) ans.push_back(temp);
+            return;
         }
 
-    vector<string> addOperators(string num, int target)
-    {
-        vector<string> result;
-        recursiveCall(0, "", 0, 0, num, target, result);
-    //recursiveCall(CurrentIndex,Path,sum,prev,num,target,result)
-        return result;
+        long long val = 0;
+        string s;
+        for (int j = i; j < (int)num.size(); ++j) {
+            if (j > i && num[i] == '0') break; // don't allow numbers with leading zeros
+            s.push_back(num[j]);
+            val = val * 10 + (num[j] - '0');
+
+            if (i == 0) {
+                // first number (no operator)
+                helper(j + 1, num, target, val, val, s, ans);
+            } else {
+                helper(j + 1, num, target, eval + val, val, temp + "+" + s, ans);
+                helper(j + 1, num, target, eval - val, -val, temp + "-" + s, ans);
+                helper(j + 1, num, target, (eval - last) + last * val, last * val, temp + "*" + s, ans);
+            }
+        }
+    }
+
+    vector<string> addOperators(string num, int target) {
+        vector<string> ans;
+        helper(0, num, (long long)target, 0LL, 0LL, "", ans);
+        return ans;
     }
 };
