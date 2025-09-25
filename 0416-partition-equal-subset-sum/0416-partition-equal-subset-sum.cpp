@@ -9,6 +9,9 @@ public:
         for(int i=0;i<n;i++){
             dp[i][0]=true;
         }
+        if(nums[n-1]<=sum){
+            dp[n-1][nums[n-1]]=true;
+        }
         for(int i=n-2;i>=0;i--){
             for(int target=1;target<=sum;target++){
                 bool take=false;
