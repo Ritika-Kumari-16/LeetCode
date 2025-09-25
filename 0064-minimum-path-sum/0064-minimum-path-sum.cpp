@@ -7,20 +7,19 @@ public:
         dp[m-1][n-1]=grid[m-1][n-1];
         for(int i=m-1;i>=0;i--){
             for(int j=n-1;j>=0;j--){
-                if (i == m - 1 && j == n - 1) continue;
-                int up =INT_MAX;
-                if(i+1<=m-1){
-                    up=dp[i+1][j];
+                if(i==m-1 && j==n-1) continue;
+                int right=INT_MAX;
+                if(j+1<n){
+                    right=dp[i][j+1];
                 }
-                int left=INT_MAX;
-                if(j+1<=n-1){
-                    left=dp[i][j+1];
+                int down=INT_MAX;
+                if(i+1<m){
+                    down=dp[i+1][j];
                 }
-                dp[i][j]= grid[i][j]+min(up,left);
+                dp[i][j]=grid[i][j]+min(right,down);
             }
         }
         return dp[0][0];
-        
     }
 };
 
