@@ -9,20 +9,19 @@ public:
         dp[m-1][n-1]=1;
         for(int i=m-1;i>=0;i--){
             for(int j=n-1;j>=0;j--){
-                if (i == m - 1 && j == n - 1 || obstacleGrid[i][j] ==1) continue;
-                long long up =0;
-                if(i+1<=m-1){
-                    up=dp[i+1][j];
+                if((i==m-1&& j==n-1) || obstacleGrid[i][j]==1) continue;
+                long long right=0;
+                if(j+1<n){
+                    right=dp[i][j+1];
                 }
-                long long left=0;
-                if(j+1<=n-1){
-                    left=dp[i][j+1];
+                long long down=0;
+                if(i+1<m){
+                    down=dp[i+1][j];
                 }
-                dp[i][j]= (up+left);
+                dp[i][j]=right+down;
             }
         }
         return dp[0][0];
-        
     }
 };
 
