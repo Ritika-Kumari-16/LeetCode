@@ -17,26 +17,28 @@ public:
         string ans;
         int i=0,j=0;
         while(i<n && j<m){
-          if(text1[i]==text2[j]){
-            ans.push_back(text1[i]);
-            i++;
-            j++;
-          }
-          else{
-            if(dp[i+1][j] > dp[i][j+1]){
+            if(text1[i]==text2[j]){
                 ans.push_back(text1[i]);
-                i=i+1;
+                i++;
+                j++;
+            }
+            else if(dp[i][j+1]>dp[i+1][j]){
+                ans.push_back(text2[j]);
+                j++;
             }
             else{
-                ans.push_back(text2[j]);
-                j=j+1;
-              
+                ans.push_back(text1[i]);
+                i++;
             }
-          }
         }
-        while (i < n) ans.push_back(text1[i++]);
-        while (j < m) ans.push_back(text2[j++]);
+        while(i<n) {
+            ans.push_back(text1[i]);
+            i++;
+        }
+        while(j<m ){
+            ans+=(text2[j]);
+            j++;
+        }
         return ans;
-        
     }
 };
