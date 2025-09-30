@@ -1,12 +1,13 @@
 class Solution {
 public:
-bool ispredecessor(string word1 , string word2){
+bool ispredecessor(string &word1 , string &word2){
+    if(word1.size()==word2.size()) return false;
     int n= word1.size();
-    int m = word2.size();
-    if(n==m || n +1!=m) return false;
+    int m= word2.size();
+    if(m != (n+1)) return false;
     int i=0,j=0;
-    while(i<n && j<m){
-        if(word1[i]!= word2[j]){
+    while(i<n && j< m){
+        if(word1[i] != word2[j]){
             j++;
         }
         else{
@@ -14,29 +15,26 @@ bool ispredecessor(string word1 , string word2){
             j++;
         }
     }
-    if(i == n && j== m) return true;
-    if(i==n && j==m-1) return true;
+    if((i==n && j==m ) || (i==n && j+1==m)) return true;
     return false;
-
-
-
-}
-static bool comp(const string &a , const string &b){
-    return a.size()<b.size();
 }
     int longestStrChain(vector<string>& words) {
-        sort(words.begin(),words.end(),comp);
         int n= words.size();
         vector<int>dp(n,1);
-        int maxi=1;
+        int maxlen=1;
+        sort(words.begin(),words.end(),[](const string& a , const string& b){
+            return a.size()<b.size();
+        });
         for(int i=0;i<n;i++){
-            for(int previdx=0;previdx<i;previdx++){
-                if(ispredecessor(words[previdx], words[i])){
-                    dp[i]=max(dp[i],1+dp[previdx]);
-                    maxi=max(maxi,dp[i]);
+            for(int j=0;j<i;j++){
+                if(ispredecessor(words[j],words[i]) && dp[i]<1+dp[j]){
+                    dp[i]=1+dp[j];
                 }
             }
+            if(dp[i]>maxlen){
+                maxlen=dp[i];
+            }
         }
-        return maxi;
+        return maxlen;
     }
 };
