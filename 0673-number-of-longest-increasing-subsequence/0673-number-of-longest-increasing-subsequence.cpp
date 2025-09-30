@@ -4,25 +4,27 @@ public:
         int n= nums.size();
         vector<int>dp(n,1);
         vector<int>count(n,1);
-        int maxi=1;
+        int maxlen=1;
         for(int i=0;i<n;i++){
-            for(int previdx=0;previdx<i;previdx++){
-                if(nums[previdx]<nums[i] && dp[i]<1+dp[previdx] ){
-                    dp[i]=1+dp[previdx];
-                    count[i]=count[previdx];
+            for(int j=0;j<i;j++){
+                if(nums[j]< nums[i] && dp[i]<1+dp[j]){
+                    dp[i]=1+dp[j];
+                    count[i]=count[j];
                 }
-                else if(nums[previdx]<nums[i] && dp[i]==1+dp[previdx] ){
-                    count[i]+=count[previdx];
+                else if(nums[j]<nums[i] && dp[i]==1+dp[j]){
+                    count[i]+=count[j];
                 }
             }
-            maxi=max(maxi,dp[i]);
-        }
-        int cnt=0;
-        for(int i=0;i<n;i++){
-            if(dp[i]==maxi){
-                cnt+=count[i];
+            if(dp[i]>maxlen){
+                maxlen=dp[i];
             }
         }
-        return cnt;
+        int ans=0;
+        for(int i=0;i<n;i++){
+            if(dp[i]==maxlen){
+                ans+=count[i];
+            }
+        }
+        return ans;
     }
 };
