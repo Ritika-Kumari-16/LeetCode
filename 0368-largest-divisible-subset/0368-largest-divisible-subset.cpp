@@ -10,7 +10,7 @@ public:
         for(int i=0;i<n;i++){
             parent[i]=i;
             for(int j=0;j<i;j++){
-                if(((nums[i] % nums[j] )==0)&& dp[i]<1+dp[j]){
+                if((nums[i] % nums[j]==0)&& dp[i]<1+dp[j]){
                     dp[i]=1+dp[j];
                     parent[i]=j;
                 }
