@@ -539,6 +539,7 @@
 | [2360-substring-with-largest-variance](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2360-substring-with-largest-variance) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2411-spiral-matrix-iv](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2411-spiral-matrix-iv) |
@@ -699,6 +700,7 @@
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -768,6 +770,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -1067,6 +1070,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
