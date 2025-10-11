@@ -11,7 +11,7 @@ int maxenergy(int i , vector<int>&energy , int k){
 }
     int maximumEnergy(vector<int>& energy, int k) {
         int n= energy.size();
-        vector<int>dp(n+1,0);
+        vector<int>dp(n,0);
         int maxenergyans=INT_MIN;
         for(int i=n-1;i>=0;i--){
             int en= energy[i];
