@@ -1,27 +1,26 @@
 class Solution {
 public:
+void dfs(int row , int col , vector<vector<int>>&image , int initclr , int color){
+    int n= image.size();
+    int m=image[0].size();
+    image[row][col]=color;
+    int delrow[]={-1,0,0,1};
+    int delcol[]={0,-1,1,0};
+    for(int i=0;i<4;i++){
+        int nrow=delrow[i]+row;
+        int ncol=delcol[i]+col;
+        if(nrow>=0 && nrow<n && ncol>=0 && ncol<m && image[nrow][ncol]==initclr){
+            dfs(nrow,ncol,image,initclr,color);
+        }
+    }
+
+}
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
         int n= image.size();
         int m= image[0].size();
-        int orcolor=image[sr][sc];
-        if (image[sr][sc] == color) return image;
-        queue<pair<int,int>>q;
-        image[sr][sc]=color;
-        q.push({sr,sc});
-        int drow[]={-1,0,0,1};
-        int dcol[]={0,-1,1,0};
-        while(!q.empty()){
-            int row=q.front().first;
-            int col= q.front().second;
-            q.pop();
-            for(int i=0;i<4;i++){
-                int nrow=row+drow[i];
-                int ncol=col+dcol[i];
-                if(nrow<0 || nrow>=n || ncol<0 || ncol>=m || image[nrow][ncol]!=orcolor) continue;
-                image[nrow][ncol]=color;
-                q.push({nrow,ncol});
-            }
-        }
+        int initclr=image[sr][sc];
+        if(initclr==color) return image;
+        dfs(sr,sc,image,initclr,color);
         return image;
     }
 };
