@@ -1,45 +1,39 @@
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
-        int n = grid.size();
-        int m= grid[0].size();
-        vector<vector<int>>visited(n,vector<int>(m,0));
-        queue<pair<int,int>>q;
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(grid[i][j]==2){
-                    q.push({i,j});
+        int m=grid.size();
+        int n= grid[0].size();
+        vector<vector<int>>visited(m,vector<int>(n,0));
+        int freshoranges=0;
+        queue<pair<int,pair<int,int>>>q;
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(grid[i][j]==1) freshoranges++;
+                else if(grid[i][j]==2){
+                    q.push({0,{i,j}});
                     visited[i][j]=1;
                 }
             }
         }
-        int time=0;
-        int drow[]={-1,0,0,1};
-        int dcol[]={0,-1,1,0};
+        int count=0;
+        int maxtime=0;
+        int delrow[]={-1,0,0,1};
+        int delcol[]={0,-1,1,0};
         while(!q.empty()){
-            int size=q.size();
-            bool changed=false;
-            for(int i=0;i<size;i++){
-                int row= q.front().first;
-                int col=q.front().second;
-                q.pop();
-                for(int j=0;j<4;j++){
-                    int nrow=row+drow[j];
-                    int ncol=col+dcol[j];
-                    if(nrow<0 || nrow >=n || ncol<0 || ncol>=m || grid[nrow][ncol]==0 || grid[nrow][ncol]==2 || visited[nrow][ncol]) continue;
+            auto it=q.front();
+            q.pop();
+            maxtime=max(maxtime,it.first);
+            for(int i=0;i<4;i++){
+                int nrow= delrow[i]+it.second.first;
+                int ncol=delcol[i]+it.second.second;
+                if(nrow>=0 && nrow<m && ncol>=0 && ncol<n && grid[nrow][ncol]==1 && visited[nrow][ncol]==0){
                     visited[nrow][ncol]=1;
-                    q.push({nrow,ncol});
-                    changed=true;
+                    int time=it.first;
+                    q.push({it.first+1,{nrow,ncol}});
+                    count++;
                 }
-                
-            }
-            if(changed) time++;
-        }
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(grid[i][j] == 1 && !visited[i][j]) return -1;
             }
         }
-        return time;
+        return (count==freshoranges)? maxtime: -1;
     }
 };
