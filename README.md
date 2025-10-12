@@ -646,6 +646,7 @@
 | [3795-zero-array-transformation-iv](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3795-zero-array-transformation-iv) |
 | [3797-design-spreadsheet](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3827-implement-router) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3952-trionic-array-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3952-trionic-array-i) |
 ## Two Pointers
 |  |
@@ -1208,6 +1209,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3795-zero-array-transformation-iv](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3795-zero-array-transformation-iv) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1521,6 +1523,7 @@
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3830-find-closest-person](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3830-find-closest-person) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion
 |  |
 | ------- |
@@ -1872,6 +1875,7 @@
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Matrix
 |  |
 | ------- |
@@ -1936,6 +1940,7 @@
 | [3548-find-the-count-of-good-integers](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -2598,4 +2603,8 @@
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Ritika-Kumari-16/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
