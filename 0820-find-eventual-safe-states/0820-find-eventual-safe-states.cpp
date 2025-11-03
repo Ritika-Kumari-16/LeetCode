@@ -1,75 +1,32 @@
 class Solution {
 public:
-bool dfs(int node, vector<vector<int>>& graph , vector<int>&pathvisited , vector<int>&visited , vector<int>&check){
-    visited[node]=1;
-    pathvisited[node]=1;
-    for(auto &it : graph[node]){
-        if(visited[it]==1 && pathvisited[it]==1){
-            return true;
+bool dfs(int node , vector<vector<int>>&graph ,vector<int>&check, vector<int>&vis, vector<int>&pathvis){
+    vis[node]=1;
+    pathvis[node]=1;
+    for(auto it:graph[node]){
+        if(!vis[it]){
+            if(dfs(it,graph,check,vis,pathvis)==false) return false;
         }
-        else if( !visited[it]){
-            if(dfs(it,graph,pathvisited,visited , check)){
-                return true;
-            }
-        }
+        else if(pathvis[it]) return false;
     }
-    pathvisited[node]=0;
+    pathvis[node]=0;
     check[node]=1;
-    return false;
+    return true;
 }
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
-        int N = graph.size();
-        vector<int>pathvisited(N,0);
-        vector<int>visited(N,0);
+        int N=graph.size();
         vector<int>check(N,0);
+        vector<int>vis(N,0);
+        vector<int>pathvis(N,0);
         for(int i=0;i<N;i++){
-            if(!visited[i]){
-                if(dfs(i,graph,pathvisited,visited,check));
+            if(!vis[i]){
+                dfs(i,graph,check,vis,pathvis);
             }
         }
-        vector<int>ans;
+        vector<int>result;
         for(int i=0;i<N;i++){
-            if(check[i]==1){
-                ans.push_back(i);
-            }
+            if(check[i]==1) result.push_back(i);
         }
-        return ans;
+        return result;
     }
 };
-
-// class Solution {
-// public:
-//     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
-//         int N= graph.size();
-//         vector<vector<int>>adj(N);
-//         vector<int>indegree(N,0);
-//         for(int i=0;i<N;i++){
-//             for(auto &it: graph[i]){
-//                 adj[it].push_back(i);
-//                 indegree[i]++;
-//             }
-//         }
-
-//         queue<int>q;
-//         vector<int>ans;
-//         for(int i=0;i<N;i++){
-//             if(indegree[i]==0){
-//                 q.push(i);
-//             }
-//         }
-//         while(!q.empty()){
-//             int node=q.front();
-//             q.pop();
-//             ans.push_back(node);
-//             for(auto &it :adj[node]){
-//                 indegree[it]--;
-//                 if(indegree[it]==0){
-//                     q.push(it);
-//                 }
-//             }
-//         }
-//         sort(ans.begin(),ans.end());
-//         return ans;
-        
-//     }
-// };
