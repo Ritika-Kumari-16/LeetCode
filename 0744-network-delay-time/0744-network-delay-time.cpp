@@ -1,31 +1,36 @@
 class Solution {
 public:
     int networkDelayTime(vector<vector<int>>& times, int n, int k) {
-        vector<vector<pair<int,int>>>adj(n+1);
+        vector<vector<pair<int,int>>>graph(n+1);
         for(auto it: times){
-            adj[it[0]].push_back({it[1],it[2]});
+            int from= it[0];
+            int to=it[1];
+            int time=it[2];
+            graph[from].push_back({to,time});
         }
-        vector<int>mintime(n+1,INT_MAX);
-        mintime[k]=0;
-        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<>>pq;
+        vector<int>totaltime(n+1,1e9);
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>pq;
         pq.push({0,k});
+        totaltime[k]=0;
         while(!pq.empty()){
-            int time=pq.top().first;
-            int node=pq.top().second;
+            auto it=pq.top();
+            int node=it.second;
+            int time=it.first;
             pq.pop();
-            for(auto it: adj[node]){
-                if(mintime[it.first]>it.second+time){
-                    mintime[it.first]=it.second+time;
-                    pq.push({mintime[it.first],it.first});
+            for(auto adj:graph[node]){
+                int adjnode= adj.first;
+                int adjtime=adj.second;
+                if(totaltime[adjnode]>adjtime+time){
+                    totaltime[adjnode]=adjtime+time;
+                    pq.push({totaltime[adjnode],adjnode});
                 }
             }
         }
-        int mini=INT_MIN;
+        int mintime=INT_MIN;
         for(int i=1;i<n+1;i++){
-            if(mintime[i]==INT_MAX) return -1;
-            mini=max(mini,mintime[i]);
+            if(totaltime[i]==1e9) return -1;
+            mintime=max(totaltime[i],mintime);
         }
-        return mini;
+        return mintime;
     }
-    
 };
