@@ -1,36 +1,36 @@
 class Solution {
 public:
     int findTheCity(int n, vector<vector<int>>& edges, int distanceThreshold) {
-        vector<vector<int>>adjmatrix(n,vector<int>(n,1e9));
+        vector<vector<int>>dist(n,vector<int>(n,1e9));
         for(auto it:edges){
-            adjmatrix[it[0]][it[1]]=it[2];
-            adjmatrix[it[1]][it[0]]=it[2];
-            
-        }
-        for(int i=0;i<n;i++){
-            adjmatrix[i][i]=0;
+            int u=it[0];
+            int v=it[1];
+            int wt=it[2];
+            dist[u][u]=0;
+            dist[v][v]=0;
+            dist[u][v]=wt;
+            dist[v][u]=wt;
         }
         for(int viaroute=0;viaroute<n;viaroute++){
             for(int i=0;i<n;i++){
                 for(int j=0;j<n;j++){
-                    if(adjmatrix[i][viaroute]<1e9 && adjmatrix[viaroute][j]<1e9){
-                        adjmatrix[i][j]=min(adjmatrix[i][j] , adjmatrix[i][viaroute]+adjmatrix[viaroute][j]);
+                    if(dist[i][viaroute]!=1e9 && dist[viaroute][j]!=1e9){
+                        dist[i][j]=min(dist[i][j],dist[i][viaroute]+dist[viaroute][j]);
                     }
                 }
             }
         }
-        int mincnt=n;
-        int city=-1;
+        int city=0;
+        int mincnt=1e9;
         for(int i=0;i<n;i++){
-            int cnt=0;
+            int count=0;
             for(int j=0;j<n;j++){
-                if(i==j) continue;
-                if(adjmatrix[i][j]<=distanceThreshold){
-                    cnt++;
+                if(dist[i][j]<=distanceThreshold){
+                    count++;
                 }
             }
-            if(cnt<=mincnt){
-                mincnt=cnt;
+            if(count<=mincnt){
+                mincnt=count;
                 city=i;
             }
         }
